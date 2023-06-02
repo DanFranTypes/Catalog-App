@@ -1,0 +1,2948 @@
+[
+    {
+        "Code":  "",
+        "Description":  "5 Second Nail",
+        "OM":  "",
+        "Cost":  ""
+    },
+    {
+        "Code":  "0 39013 12503",
+        "Description":  "5 Second Pro Salon Nail Glue .07 oz",
+        "OM":  "6",
+        "Cost":  "$3.60 "
+    },
+    {
+        "Code":  "0 39013 12504",
+        "Description":  "5 Second Pro Salon Brush on Nail Glue .2 oz",
+        "OM":  "4",
+        "Cost":  "$4.20 "
+    },
+    {
+        "Code":  "0 39013 12526",
+        "Description":  "5 Second Professional Salon Bite Free 14ml",
+        "OM":  "4",
+        "Cost":  "$4.20 "
+    },
+    {
+        "Code":  "",
+        "Description":  "A.I.  Ardell",
+        "OM":  "",
+        "Cost":  ""
+    },
+    {
+        "Code":  "65001",
+        "Description":  "Ardell Natural Strip Lashes 101 Demi Black       Best Seller ",
+        "OM":  "3",
+        "Cost":  "$4.50 "
+    },
+    {
+        "Code":  "65083",
+        "Description":  "Ardell Natural Strip Lashes 102 Demi Black      Best Seller ",
+        "OM":  "3",
+        "Cost":  "$4.50 "
+    },
+    {
+        "Code":  "65002",
+        "Description":  "Ardell Natural Strip Lashes 105 Black      Best Seller ",
+        "OM":  "3",
+        "Cost":  "$4.50 "
+    },
+    {
+        "Code":  "65087",
+        "Description":  "Ardell Natural Strip Lashes 107 Black       Best Seller ",
+        "OM":  "3",
+        "Cost":  "$4.50 "
+    },
+    {
+        "Code":  "65088",
+        "Description":  "Ardell Natural Strip Lashes 108 Black       Best Seller ",
+        "OM":  "3",
+        "Cost":  "$4.50 "
+    },
+    {
+        "Code":  "65003",
+        "Description":  "Ardell Natural Strip Lashes 109 Black       Best Seller ",
+        "OM":  "3",
+        "Cost":  "$4.50 "
+    },
+    {
+        "Code":  "65004",
+        "Description":  "Ardell Natural Strip Lashes 110 Black       Best Seller ",
+        "OM":  "3",
+        "Cost":  "$4.50 "
+    },
+    {
+        "Code":  "65050",
+        "Description":  "Ardell Knot Free Individuals Short Black   Best Seller",
+        "OM":  "3",
+        "Cost":  "$4.50 "
+    },
+    {
+        "Code":  "65052",
+        "Description":  "Ardell Knot Free Individuals Medium Black   Best Seller",
+        "OM":  "3",
+        "Cost":  "$4.50 "
+    },
+    {
+        "Code":  "65056",
+        "Description":  "Ardell Lashgrip Clear Adhesive",
+        "OM":  "3",
+        "Cost":  "$4.20"
+    },
+    {
+        "Code":  "65057",
+        "Description":  "Ardell Lashgrip Black Adhesive",
+        "OM":  "3",
+        "Cost":  "$4.20"
+    },
+    {
+        "Code":  "65060",
+        "Description":  "Ardell Lash Remover     NEW",
+        "OM":  "3",
+        "Cost":  "$4.80"
+    },
+    {
+        "Code":  "52323",
+        "Description":  "Ardell Pro Lash Curler      NEW",
+        "OM":  "3",
+        "Cost":  "$5.40"
+    },
+    {
+        "Code":  "63401",
+        "Description":  "Ardell Aqua Lash # 340  ",
+        "OM":  "4",
+        "Cost":  "$6.50 "
+    },
+    {
+        "Code":  "63402",
+        "Description":  "Ardell Aqua Lash # 341 ",
+        "OM":  "4",
+        "Cost":  "$6.50 "
+    },
+    {
+        "Code":  "63403",
+        "Description":  "Ardell Aqua Lash # 342 ",
+        "OM":  "4",
+        "Cost":  "$6.50 "
+    },
+    {
+        "Code":  "63404",
+        "Description":  "Ardell Aqua Lash # 343 ",
+        "OM":  "4",
+        "Cost":  "$6.50 "
+    },
+    {
+        "Code":  "65223",
+        "Description":  "Ardell/Duo Lash Kit # 120 ",
+        "OM":  "3",
+        "Cost":  "$9.00 "
+    },
+    {
+        "Code":  "65222",
+        "Description":  "Ardell / Duo Lash Kit # 110 ",
+        "OM":  "3",
+        "Cost":  "$9.00 "
+    },
+    {
+        "Code":  "66694",
+        "Description":  "Ardell/Duo Lash Kit # 105  New ",
+        "OM":  "3",
+        "Cost":  "$9.00 "
+    },
+    {
+        "Code":  "67950",
+        "Description":  "Ardell Magnetic Lash # 110  Lower Price ",
+        "OM":  "1",
+        "Cost":  "$12.50 "
+    },
+    {
+        "Code":  "67951",
+        "Description":  "Ardell Magnetic Lash Double Whispies    Lower Price",
+        "OM":  "1",
+        "Cost":  "$12.50 "
+    },
+    {
+        "Code":  "67952",
+        "Description":  "Ardell Magnetic Lash Double Demi Whispies    Lower Price",
+        "OM":  "1",
+        "Cost":  "$12.50 "
+    },
+    {
+        "Code":  "67954",
+        "Description":  "Ardell Magnetic Lash Accents    Lower Price",
+        "OM":  "1",
+        "Cost":  "$12.50 "
+    },
+    {
+        "Code":  "36850",
+        "Description":  "Ardell Magnetic Liner and Lash Whispies  ",
+        "OM":  "1",
+        "Cost":  "$15.00 "
+    },
+    {
+        "Code":  "36851",
+        "Description":  "Ardell Magnetic Liner and Lash Demi Whispies  ",
+        "OM":  "1",
+        "Cost":  "$15.00 "
+    },
+    {
+        "Code":  "36852",
+        "Description":  "Ardell Magnetic Liner and Lash # 110 ",
+        "OM":  "1",
+        "Cost":  "$15.00 "
+    },
+    {
+        "Code":  "36853",
+        "Description":  "Ardell Magnetic Liner and Lash Accent 002 ",
+        "OM":  "1",
+        "Cost":  "$15.00 "
+    },
+    {
+        "Code":  "36854",
+        "Description":  "Ardell Magnetic Liner  ",
+        "OM":  "1",
+        "Cost":  "$12.50 "
+    },
+    {
+        "Code":  "67448",
+        "Description":  "Ardell 3D Faux Mink # 852  ",
+        "OM":  "3",
+        "Cost":  "$6.50 "
+    },
+    {
+        "Code":  "67449",
+        "Description":  "Ardell 3D Faux Mink # 853",
+        "OM":  "3",
+        "Cost":  "$6.50 "
+    },
+    {
+        "Code":  "67450",
+        "Description":  "Ardell 3D Faux Mink # 854",
+        "OM":  "3",
+        "Cost":  "$6.50 "
+    },
+    {
+        "Code":  "67453",
+        "Description":  "Ardell 3D Faux Mink # 857",
+        "OM":  "3",
+        "Cost":  "$6.50 "
+    },
+    {
+        "Code":  "62112",
+        "Description":  "Ardell Nail Blush Geometric Crystals ( New )",
+        "OM":  "3",
+        "Cost":  "$9.00 "
+    },
+    {
+        "Code":  "54602",
+        "Description":  "Ardell Nail Addict  Rich Tan Ombre ( New )",
+        "OM":  "3",
+        "Cost":  "$9.00 "
+    },
+    {
+        "Code":  "66441",
+        "Description":  "Ardell Nail Addict Ombre Fade ( New )",
+        "OM":  "3",
+        "Cost":  "$9.00 "
+    },
+    {
+        "Code":  "54601",
+        "Description":  "Ardell Nail Addict Nude Light Crystals ( New )",
+        "OM":  "3",
+        "Cost":  "$9.00 "
+    },
+    {
+        "Code":  "75886",
+        "Description":  "Ardell Nail Addict Black Stud and Pink Ombre ( New )",
+        "OM":  "3",
+        "Cost":  "$9.00 "
+    },
+    {
+        "Code":  "75888",
+        "Description":  "Ardell Nail Addict Chrome Pink Foil ",
+        "OM":  "3",
+        "Cost":  "$9.00 "
+    },
+    {
+        "Code":  "62111",
+        "Description":  "Ardell Nail Addict Metalic Lilac Purple",
+        "OM":  "3",
+        "Cost":  "$9.00 "
+    },
+    {
+        "Code":  "75889",
+        "Description":  "Ardell Nail Addict Holographic Glitter Set    ( Not available at this time )  ",
+        "OM":  "3",
+        "Cost":  "$9.00 "
+    },
+    {
+        "Code":  "75892",
+        "Description":  "Ardell Nail Addict Nude Jeweled Set   ",
+        "OM":  "3",
+        "Cost":  "$9.00 "
+    },
+    {
+        "Code":  "75885",
+        "Description":  "Ardell Nail Addict Glass Deco Set  ",
+        "OM":  "3",
+        "Cost":  "$9.00 "
+    },
+    {
+        "Code":  "75891",
+        "Description":  "Ardell Nail Addict Matte Blue   ",
+        "OM":  "3",
+        "Cost":  "$9.00 "
+    },
+    {
+        "Code":  "66426",
+        "Description":  "Ardell Nail Addict Classic French Set   ",
+        "OM":  "3",
+        "Cost":  "$9.00 "
+    },
+    {
+        "Code":  "63826",
+        "Description":  "Ardell Nail Addict Metallic Red Set   ",
+        "OM":  "3",
+        "Cost":  "$9.00 "
+    },
+    {
+        "Code":  "63827",
+        "Description":  "Ardell Nail Addict Metallic Blue Set   ",
+        "OM":  "3",
+        "Cost":  "$9.00 "
+    },
+    {
+        "Code":  "63829",
+        "Description":  "Ardell Nail Addict Metallic Pink Set  ( Not Available at this time )",
+        "OM":  "3",
+        "Cost":  "$9.00 "
+    },
+    {
+        "Code":  "63836",
+        "Description":  "Ardell Nail Addict Metallic Green Set   ",
+        "OM":  "3",
+        "Cost":  "$9.00 "
+    },
+    {
+        "Code":  "63821",
+        "Description":  "Ardell Nail Addict Natural Oval Set    ",
+        "OM":  "3",
+        "Cost":  "$9.00 "
+    },
+    {
+        "Code":  "63823",
+        "Description":  "Ardell Nail Addict Natural Squared Set    ",
+        "OM":  "3",
+        "Cost":  "$9.00 "
+    },
+    {
+        "Code":  "63824",
+        "Description":  "Ardell Nail Addict Natural Long Set    ",
+        "OM":  "3",
+        "Cost":  "$9.00 "
+    },
+    {
+        "Code":  "10-6194",
+        "Description":  "Ardell Nail Addict Diplay free with order of 9 units   ",
+        "OM":  "1",
+        "Cost":  "$- "
+    },
+    {
+        "Code":  "63293",
+        "Description":  "Ardell Nail Addict Nail Glue ( Jumbo 5gm )   ",
+        "OM":  "3",
+        "Cost":  "$5.40 "
+    },
+    {
+        "Code":  "63849",
+        "Description":  "Ardell Nail Addict Brush on Nail Glue 5gm   New",
+        "OM":  "3",
+        "Cost":  "$6.00 "
+    },
+    {
+        "Code":  "63294",
+        "Description":  "Ardell Nail Addict Adhesive Tabs   ",
+        "OM":  "3",
+        "Cost":  "$3.60 "
+    },
+    {
+        "Code":  "",
+        "Description":  "A.I.  Duo/Seche",
+        "OM":  "",
+        "Cost":  ""
+    },
+    {
+        "Code":  "0 78930 68010",
+        "Description":  "Duo Premium Lash Adhesive Clear ",
+        "OM":  "3",
+        "Cost":  "$6.00 "
+    },
+    {
+        "Code":  "0 78930 68110",
+        "Description":  "Duo Premium Lash Adhesive Dark     ",
+        "OM":  "3",
+        "Cost":  "$6.00 "
+    },
+    {
+        "Code":  "8 09217 83105",
+        "Description":  "Seche Vite Dry Fast Top Coat 14ml",
+        "OM":  "3",
+        "Cost":  "$7.20 "
+    },
+    {
+        "Code":  "8 09217 69491",
+        "Description":  "Seche Vive Instant Gel Effect Top Coat",
+        "OM":  "3",
+        "Cost":  "$7.20 "
+    },
+    {
+        "Code":  "",
+        "Description":  "A.I. Supernail",
+        "OM":  "",
+        "Cost":  ""
+    },
+    {
+        "Code":  "0 73930 31470",
+        "Description":  "Supernail Pure Acetone 8oz ( New ) Supernail",
+        "OM":  "6",
+        "Cost":  "$5.40 "
+    },
+    {
+        "Code":  "0 57675 68051",
+        "Description":  "Besco Pure Acetone 8 oz",
+        "OM":  "6",
+        "Cost":  "$4.20 "
+    },
+    {
+        "Code":  "0 73930 06050",
+        "Description":  "Supernail Bite No More ",
+        "OM":  "6",
+        "Cost":  "$6.00 "
+    },
+    {
+        "Code":  "0 73930 50530",
+        "Description":  "Supernail Stick It Brush On Nail Glue 14ml ( was 3.6 ml before ) NEW",
+        "OM":  "12",
+        "Cost":  "$9.00 "
+    },
+    {
+        "Code":  "0 7393050500",
+        "Description":  "Supernail Stick it 3 ml ( 12 per display )",
+        "OM":  "12",
+        "Cost":  "$4.20 "
+    },
+    {
+        "Code":  "",
+        "Description":  "A.I. Clubman",
+        "OM":  "",
+        "Cost":  ""
+    },
+    {
+        "Code":  "0 70066 01706",
+        "Description":  "Clubman Moustache Wax Clear                       ",
+        "OM":  "3",
+        "Cost":  "$5.40 "
+    },
+    {
+        "Code":  "0 70066 02706",
+        "Description":  "Clubman Moustache Wax Black                      ",
+        "OM":  "3",
+        "Cost":  "$5.40 "
+    },
+    {
+        "Code":  "0 70066 04706",
+        "Description":  "Clubman Moustache Wax Brown                      ",
+        "OM":  "3",
+        "Cost":  "$5.40 "
+    },
+    {
+        "Code":  "0 70066 08120",
+        "Description":  "Clubman Styptic Pencil 9g  ",
+        "OM":  "3",
+        "Cost":  "$3.00 "
+    },
+    {
+        "Code":  "0 70066 02760",
+        "Description":  "Clubman Fine Talc 9 oz",
+        "OM":  "3",
+        "Cost":  "$7.20 "
+    },
+    {
+        "Code":  "0 70066 27996",
+        "Description":  "Clubman Beard Oil   available in 6 piece display (      )",
+        "OM":  "3",
+        "Cost":  "$9.00 "
+    },
+    {
+        "Code":  "0 70066 27994",
+        "Description":  "Clubman Beard Balm",
+        "OM":  "3",
+        "Cost":  "$9.00 "
+    },
+    {
+        "Code":  "0 70066 27995",
+        "Description":  "Clubman 2 in 1 Conditioner",
+        "OM":  "3",
+        "Cost":  "$9.00 "
+    },
+    {
+        "Code":  "",
+        "Description":  "Clubman 9 pc Mix Beard Display 3 Oil, 3 Balm and 3 Cond. All $ 9.00 cost",
+        "OM":  "1",
+        "Cost":  "$81.00 "
+    },
+    {
+        "Code":  "0 70066 13127",
+        "Description":  "Clubman Bump Repair ",
+        "OM":  "3",
+        "Cost":  "$10.20 "
+    },
+    {
+        "Code":  "0 70066 28004 ",
+        "Description":  "Clubman Shave Oil 1 oz   available in 6 piece display (      )",
+        "OM":  "3",
+        "Cost":  "$9.00 "
+    },
+    {
+        "Code":  "0 70066 28005",
+        "Description":  "Clubman Shave Soap 2.5 oz ",
+        "OM":  "3",
+        "Cost":  "$9.00 "
+    },
+    {
+        "Code":  "0 70066 28006",
+        "Description":  "Clubman Classic Barber Shave Cream 16 oz",
+        "OM":  "3",
+        "Cost":  "$9.00 "
+    },
+    {
+        "Code":  "0 70066 28000",
+        "Description":  "Clubman Head Shave Gel 6oz",
+        "OM":  "3",
+        "Cost":  "$9.00 "
+    },
+    {
+        "Code":  "0 70066 28003",
+        "Description":  "Clubman Tattoo and Beard Oil 1 oz ",
+        "OM":  "3",
+        "Cost":  "$9.00 "
+    },
+    {
+        "Code":  "0 70066 04030",
+        "Description":  "Clubman Classic After Shave 6 oz  ",
+        "OM":  "3",
+        "Cost":  "$9.00 "
+    },
+    {
+        "Code":  "0 70066 04032",
+        "Description":  "Clubman Classic After Shave 12 oz  ",
+        "OM":  "3",
+        "Cost":  "$15.00 "
+    },
+    {
+        "Code":  "0 70066 04020",
+        "Description":  "Clubman Virgin Island Bay Rum After Shave 6 oz ",
+        "OM":  "3",
+        "Cost":  "$9.00 "
+    },
+    {
+        "Code":  "asst.",
+        "Description":  "Clubman Color Hair Gels Black(         )   Dark Brown(        )   Brown(        ) ",
+        "OM":  "3",
+        "Cost":  "$8.40 "
+    },
+    {
+        "Code":  "0 70066 90782",
+        "Description":  "Clubman Reserve Premium Powder ",
+        "OM":  "3",
+        "Cost":  "$9.00 "
+    },
+    {
+        "Code":  "0 70066 01107",
+        "Description":  "Clubman Reserve After Shave Whiskey Woods ",
+        "OM":  "3",
+        "Cost":  "$10.20 "
+    },
+    {
+        "Code":  "0 7006601101",
+        "Description":  "Clubman Reserve After Shave Gents Gin ",
+        "OM":  "3",
+        "Cost":  "$10.20 "
+    },
+    {
+        "Code":  "0 70066 01104",
+        "Description":  "Clubman Reserve After Shave Brandy Spice ",
+        "OM":  "3",
+        "Cost":  "$10.20 "
+    },
+    {
+        "Code":  "0 70066 90794",
+        "Description":  "Clubman Mens Black Charcoal Mask ( 6 per display )",
+        "OM":  "3",
+        "Cost":  "$15.00 "
+    },
+    {
+        "Code":  "0 70066 66363",
+        "Description":  "Clubman Premium Shave Brush",
+        "OM":  "3",
+        "Cost":  "$21.00 "
+    },
+    {
+        "Code":  "0 70066 27750",
+        "Description":  "Clubman Supreme Non Aerosol Deodorant Spray 118ml ",
+        "OM":  "3",
+        "Cost":  "$6.00 "
+    },
+    {
+        "Code":  "",
+        "Description":  "Cover Your Gray",
+        "OM":  "",
+        "Cost":  ""
+    },
+    {
+        "Code":  "0 21959 05058",
+        "Description":  "Cover Your Gray Mascara Black    ",
+        "OM":  "3",
+        "Cost":  "$4.80 "
+    },
+    {
+        "Code":  "0 21959 05068",
+        "Description":  "Cover Your Gray Mascara Dark Brown",
+        "OM":  "3",
+        "Cost":  "$4.80 "
+    },
+    {
+        "Code":  "0 21959 05078",
+        "Description":  "Cover Your Gray Mascara Med. Brown",
+        "OM":  "3",
+        "Cost":  "$4.80 "
+    },
+    {
+        "Code":  "0 21959 05088",
+        "Description":  "Cover Your Gray Mascara L.Brown/Blonde",
+        "OM":  "3",
+        "Cost":  "$4.80 "
+    },
+    {
+        "Code":  "0 21959 05028",
+        "Description":  "Cover Your Gray Mascara Auburn ",
+        "OM":  "3",
+        "Cost":  "$4.80 "
+    },
+    {
+        "Code":  "0 21959 05018",
+        "Description":  "Cover Your Gray Mascara Mahogany ",
+        "OM":  "3",
+        "Cost":  "$4.80 "
+    },
+    {
+        "Code":  "0 21959 04113",
+        "Description":  "Cover Your Gray Crayon Black                   ",
+        "OM":  "3",
+        "Cost":  "$4.80 "
+    },
+    {
+        "Code":  "0 21959 04112",
+        "Description":  "Cover Your Gray Crayon Dark Brown",
+        "OM":  "3",
+        "Cost":  "$4.80 "
+    },
+    {
+        "Code":  "0 21959 04111",
+        "Description":  "Cover Your Gray Crayon Med. Brown",
+        "OM":  "3",
+        "Cost":  "$4.80 "
+    },
+    {
+        "Code":  "0 21959 04110",
+        "Description":  "Cover Your Gray Crayon L.Brown/Blonde",
+        "OM":  "3",
+        "Cost":  "$4.80 "
+    },
+    {
+        "Code":  "0 21959 04124",
+        "Description":  "Cover Your Gray Crayon Mahogany",
+        "OM":  "3",
+        "Cost":  "$4.80 "
+    },
+    {
+        "Code":  "0 21959 00183",
+        "Description":  "Cover Your Gray Fill In Powder Black",
+        "OM":  "3",
+        "Cost":  "$12.00 "
+    },
+    {
+        "Code":  "0 21959 00181",
+        "Description":  "Cover Your Gray Fill In Powder D. Brown ",
+        "OM":  "3",
+        "Cost":  "$12.00 "
+    },
+    {
+        "Code":  "0 21959 00182",
+        "Description":  "Cover Your Gray Fill In Powder M. Brown",
+        "OM":  "3",
+        "Cost":  "$12.00 "
+    },
+    {
+        "Code":  "0 21959 00184",
+        "Description":  "Cover Your Gray Fill In Powder L.Brown",
+        "OM":  "3",
+        "Cost":  "$12.00 "
+    },
+    {
+        "Code":  "0 57675 14001 ",
+        "Description":  "Blue Shampoo 250ml ( New improved Formula and packaging )",
+        "OM":  "3",
+        "Cost":  "$5.40 "
+    },
+    {
+        "Code":  "MPC-72",
+        "Description":  "Mens Pocket Combs 72 per display Jar ( Now Lower Price )",
+        "OM":  "72",
+        "Cost":  "$0.50 "
+    },
+    {
+        "Code":  "50029",
+        "Description":  "Duo Plastic Sharpener with Cover ( 12 per box ) ",
+        "OM":  "12",
+        "Cost":  "$1.20"
+    },
+    {
+        "Code":  "50131",
+        "Description":  "Duo Metal Sharpener Wedge Shape ( 18 per display ) or open stock",
+        "OM":  "6",
+        "Cost":  "$2.40"
+    },
+    {
+        "Code":  "",
+        "Description":  "CM Products that can be ordered  Direct via Stellar or Drop Shipped via CM ",
+        "OM":  "",
+        "Cost":  ""
+    },
+    {
+        "Code":  "UPC",
+        "Description":  "MASK-50 ( 50 per box ) Surgical style non waterproof ",
+        "OM":  "50",
+        "Cost":  "$5.00 "
+    },
+    {
+        "Code":  "UPC",
+        "Description":  "MASK-50 BK ( 3 Ply Black 50 per box ) Non Waterproof",
+        "OM":  "40",
+        "Cost":  "$8.00 "
+    },
+    {
+        "Code":  "UPC",
+        "Description":  "Mask Lanyard ( Black and White ) 40 per Jar  ",
+        "OM":  "40",
+        "Cost":  "$1.20 "
+    },
+    {
+        "Code":  "UPC",
+        "Description":  "KN95 Mask ( priced per mask ) may be in box of 50, 20 , 10 etc.",
+        "OM":  "20",
+        "Cost":  "$0.60 "
+    },
+    {
+        "Code":  "UPC",
+        "Description":  "KN95 Mask Black ( priced per mask ) may be in boxes of 10 or 20",
+        "OM":  "20",
+        "Cost":  "$1.20 "
+    },
+    {
+        "Code":  "USB-8000",
+        "Description":  "Powerdel Wall Charger Type C / USB port for Newer Iphone and Androids ",
+        "OM":  "3",
+        "Cost":  "$10.00"
+    },
+    {
+        "Code":  "IPC-4000",
+        "Description":  "Powerdel Type C to Type C Charge Cable    with lower price",
+        "OM":  "3",
+        "Cost":  "$4.80"
+    },
+    {
+        "Code":  "IPC-5000",
+        "Description":  "Powerdel Iphone to Type C Charge Cable    with lower price",
+        "OM":  "3",
+        "Cost":  "$4.80"
+    },
+    {
+        "Code":  "PD-01 ",
+        "Description":  "iphone to type C charge wire for newer model Iphone and androids  ",
+        "OM":  "6",
+        "Cost":  "$3.60"
+    },
+    {
+        "Code":  "PD-02",
+        "Description":  "Type C to Type C charger wire for newer model iphone and androids  ",
+        "OM":  "6",
+        "Cost":  "$3.60"
+    },
+    {
+        "Code":  "PD-03",
+        "Description":  "Double Wall charger for newer model Iphone and androids   ",
+        "OM":  "6",
+        "Cost":  "$9.00"
+    },
+    {
+        "Code":  "PD-04 ",
+        "Description":  "Double Car Charger for newer model iphone and androids   ",
+        "OM":  "6",
+        "Cost":  "$6.00"
+    },
+    {
+        "Code":  "SHE-1405",
+        "Description":  "Ear Buds Philips ( Black \u0026 White )",
+        "OM":  "3",
+        "Cost":  "$6.00 "
+    },
+    {
+        "Code":  "SDC-32GB",
+        "Description":  "Kingston 32gb Memory Card  ",
+        "OM":  "1",
+        "Cost":  "$12.00 "
+    },
+    {
+        "Code":  "FD32GB KING",
+        "Description":  "Kingston/Sandisk 32gb USB Memory Stick",
+        "OM":  "1",
+        "Cost":  "$12.00 "
+    },
+    {
+        "Code":  "SDC-64GB",
+        "Description":  "Kingston 64gb Memory Card ",
+        "OM":  "1",
+        "Cost":  "$18.00 "
+    },
+    {
+        "Code":  "FD64GB KING",
+        "Description":  "Kingston 64gb Memory Stick ",
+        "OM":  "1",
+        "Cost":  "$18.00 "
+    },
+    {
+        "Code":  "SDC-128GB",
+        "Description":  "Kingston 128gb Memory Card ",
+        "OM":  "1",
+        "Cost":  "$30.00"
+    },
+    {
+        "Code":  "FD128GB KING",
+        "Description":  "Kingston 128gb Memory Stick ",
+        "OM":  "1",
+        "Cost":  "$30.00"
+    },
+    {
+        "Code":  "DT70-64GB",
+        "Description":  "Kingston 64 gb Type C Flash Drive                 ",
+        "OM":  "1",
+        "Cost":  "$16.00"
+    },
+    {
+        "Code":  "IP5000-36",
+        "Description":  "Phone / Tablet Folding Stand  NEW",
+        "OM":  "36",
+        "Cost":  "$1.50 "
+    },
+    {
+        "Code":  "USSB800c-36",
+        "Description":  "Car Charger in Fishbowl Display",
+        "OM":  "36",
+        "Cost":  "$1.80 "
+    },
+    {
+        "Code":  "USB-3100-BIN",
+        "Description":  "Dual USB Car Charger 2.1A in 20 pc Bin ",
+        "OM":  "20",
+        "Cost":  "$3.60"
+    },
+    {
+        "Code":  "791-Bin",
+        "Description":  "Woven Aux Cable 4ft. 40 per display bin",
+        "OM":  "40",
+        "Cost":  "$1.50"
+    },
+    {
+        "Code":  "IPMICRO 1M",
+        "Description":  "LED Charge Cable Micro  ",
+        "OM":  "3",
+        "Cost":  "$4.20"
+    },
+    {
+        "Code":  "IP-TYPEC-1M",
+        "Description":  "LED Charge Cable   Type C  ",
+        "OM":  "3",
+        "Cost":  "$4.20"
+    },
+    {
+        "Code":  "IP551-1M",
+        "Description":  "LED Charge Cable Apple  ",
+        "OM":  "3",
+        "Cost":  "$4.20"
+    },
+    {
+        "Code":  "IPCOMBO-10",
+        "Description":  "CELL Phone Display PPK 96 units with 10ft Charge Cables 40/33/23",
+        "OM":  "1",
+        "Cost":  "$480.00"
+    },
+    {
+        "Code":  "IP551-10R",
+        "Description":  "10FT Iphone Cord 5/6/7/8/X/IPAD",
+        "OM":  "",
+        "Cost":  "$5.00"
+    },
+    {
+        "Code":  "IPMICRO-10R",
+        "Description":  "10FT Micro Cord",
+        "OM":  "",
+        "Cost":  "$5.00"
+    },
+    {
+        "Code":  "IP-TYPEC-10R",
+        "Description":  "10FT Type C Cord",
+        "OM":  "",
+        "Cost":  "$5.00"
+    },
+    {
+        "Code":  "IP-80",
+        "Description":  "3 in 1 Charge cable Apple, Android, TypeC  ",
+        "OM":  "3",
+        "Cost":  "$6.00 "
+    },
+    {
+        "Code":  "DB26",
+        "Description":  "New Premium Best Sellers Charge Display 168 unit ( Acrylic Display ) ",
+        "OM":  "1",
+        "Cost":  "$558.00"
+    },
+    {
+        "Code":  "IPMICRO-24",
+        "Description":  "Micro Cable for DB25-26 Refills",
+        "OM":  "12",
+        "Cost":  "$2.40"
+    },
+    {
+        "Code":  "IP551-24",
+        "Description":  "Iphone Cable  for DB25-26 Refills",
+        "OM":  "12",
+        "Cost":  "$3.00"
+    },
+    {
+        "Code":  "USB-TYPEC-24",
+        "Description":  "Type C Cable  for DB25-26 Refills",
+        "OM":  "12",
+        "Cost":  "$3.00"
+    },
+    {
+        "Code":  "USB-6000",
+        "Description":  "Home Charger  for DB25-26 Refills",
+        "OM":  "12",
+        "Cost":  "$5.40"
+    },
+    {
+        "Code":  "IP-955",
+        "Description":  "Apple Style  Ear Bud  for DB25-26 Refills",
+        "OM":  "12",
+        "Cost":  "$4.50"
+    },
+    {
+        "Code":  "LT-Air ( UIP-10967",
+        "Description":  "Little Tree Air Freshners ( Assorted styes Mix )  ",
+        "OM":  "12",
+        "Cost":  "$1.40 "
+    },
+    {
+        "Code":  "",
+        "Description":  "Little Tree Air Freshners ( Assorted styes Mix )  24 pc Clip strip",
+        "OM":  "24",
+        "Cost":  "$1.20"
+    },
+    {
+        "Code":  "LT-Spray",
+        "Description":  "Little Tree Air Freshner Pump Sprays 24 per display",
+        "OM":  "24",
+        "Cost":  "$4.20 "
+    },
+    {
+        "Code":  "LT-Display",
+        "Description":  "Little Tree Floorstand PPK with Display 288 AirFresners and 48 Sprays",
+        "OM":  "1",
+        "Cost":  "$604.80 "
+    },
+    {
+        "Code":  "EG-1026",
+        "Description":  "Eye Glass Repair Kit ",
+        "OM":  "6",
+        "Cost":  "$2.10 "
+    },
+    {
+        "Code":  "RG-2",
+        "Description":  "Reading Glasses with 2 LED and Pouch",
+        "OM":  "25",
+        "Cost":  "$4.80 "
+    },
+    {
+        "Code":  "RG-1",
+        "Description":  "Folding Reading Glasses ( Limited stock )",
+        "OM":  "25",
+        "Cost":  "$3.60"
+    },
+    {
+        "Code":  "BS-23",
+        "Description":  "Back Scratcher  Claw ",
+        "OM":  "25",
+        "Cost":  "$3.00 "
+    },
+    {
+        "Code":  "BS-68",
+        "Description":  "Back Scratcher    Rake ",
+        "OM":  "25",
+        "Cost":  "$3.00 "
+    },
+    {
+        "Code":  "ESH-1000",
+        "Description":  "Extendable Shoe Horn  NEW",
+        "OM":  "24",
+        "Cost":  "$3.00 "
+    },
+    {
+        "Code":  "LED-9",
+        "Description":  "Torch Light (16 per Display)",
+        "OM":  "16",
+        "Cost":  "$2.40 "
+    },
+    {
+        "Code":  "PL-24",
+        "Description":  "Power Del 24 Led Flashlight with Magnet and Hook",
+        "OM":  "12",
+        "Cost":  "$5.40 "
+    },
+    {
+        "Code":  "ML-16",
+        "Description":  "Rechargeable Aluminum Torchlight style Flashlight  ",
+        "OM":  "12",
+        "Cost":  "$7.80 "
+    },
+    {
+        "Code":  "TSA-2",
+        "Description":  "TSA Travel Combination Lock",
+        "OM":  "6",
+        "Cost":  "$4.00 "
+    },
+    {
+        "Code":  "FS-4",
+        "Description":  "4 Pack Fly Swater Asst. Colours ",
+        "OM":  "6",
+        "Cost":  "$2.00 "
+    },
+    {
+        "Code":  "FS-24",
+        "Description":  "Premium Large Extendable Fly Swatter",
+        "OM":  "6",
+        "Cost":  "$2.00 "
+    },
+    {
+        "Code":  "WB-2000",
+        "Description":  "Sports Waist Bag",
+        "OM":  "6",
+        "Cost":  "$4.00 "
+    },
+    {
+        "Code":  "WPC-1",
+        "Description":  "Waterproof Cell Phone Case",
+        "OM":  "3",
+        "Cost":  "$4.00 "
+    },
+    {
+        "Code":  "TW",
+        "Description":  "True Wireless Earphones",
+        "OM":  "2",
+        "Cost":  "$20.00 "
+    },
+    {
+        "Code":  "VAS-JELLY",
+        "Description":  "Vaseline Jelly Trial Size 48 per ( Buy 4 Displays get 1 Free )",
+        "OM":  "48",
+        "Cost":  "$0.90 "
+    },
+    {
+        "Code":  "LR-70",
+        "Description":  "Lint Roller Large 70 sheet ",
+        "OM":  "12",
+        "Cost":  "$1.50 "
+    },
+    {
+        "Code":  "DR-1",
+        "Description":  "Carabiner Hook with KeyChain ( 48 per display )  ",
+        "OM":  "12",
+        "Cost":  "$1.20 "
+    },
+    {
+        "Code":  "A10-BP6",
+        "Description":  "Hearing Aid Batteries 6 pack A10-BP6 ",
+        "OM":  "3",
+        "Cost":  "$5.40 "
+    },
+    {
+        "Code":  "A13-BP6",
+        "Description":  "Hearing Aid Batteries 6 pack Westinghouse  A13-BP6  ",
+        "OM":  "3",
+        "Cost":  "$5.40 "
+    },
+    {
+        "Code":  "A312-BP6",
+        "Description":  "Hearing Aid Batteries 6 pack A312-BP6  ",
+        "OM":  "3",
+        "Cost":  "$5.40 "
+    },
+    {
+        "Code":  "BICYCLE-PC",
+        "Description":  "Bicycle Premium Playing Cards",
+        "OM":  "13",
+        "Cost":  "$4.20"
+    },
+    {
+        "Code":  "XJUMBO-PC",
+        "Description":  "Jumbo Playing Cards  NEW",
+        "OM":  "12",
+        "Cost":  "$2.40"
+    },
+    {
+        "Code":  "SCH-30",
+        "Description":  "Cell Phone Stand and Wallet",
+        "OM":  "24",
+        "Cost":  "$2.40 "
+    },
+    {
+        "Code":  "MPC-8",
+        "Description":  "Multi Purpose Containers ( 8 x 20 ml )   NEW",
+        "OM":  "12",
+        "Cost":  "$1.80"
+    },
+    {
+        "Code":  "S9099",
+        "Description":  "Dudao 10000 mAh Power Bank   NEW",
+        "OM":  "12",
+        "Cost":  "$21.00"
+    },
+    {
+        "Code":  "",
+        "Description":  "CN-OSD Jar and RFID items",
+        "OM":  "",
+        "Cost":  ""
+    },
+    {
+        "Code":  "K-02",
+        "Description":  "Phone Pop in Jar Display  ( display holds 20 to 40 units ) ",
+        "OM":  "24",
+        "Cost":  "$2.10 "
+    },
+    {
+        "Code":  "K10",
+        "Description":  "Pill Holders in Jar Display",
+        "OM":  "40",
+        "Cost":  "$3.00 "
+    },
+    {
+        "Code":  "K-19",
+        "Description":  "Phone Vent Clip in Jar Display",
+        "OM":  "15",
+        "Cost":  "$3.00 "
+    },
+    {
+        "Code":  "K-20",
+        "Description":  "3 in 1 Apple, Android and Type C cable in Jar Display",
+        "OM":  "30",
+        "Cost":  "$3.50 "
+    },
+    {
+        "Code":  "K-9",
+        "Description":  "Metal Carabiners ",
+        "OM":  "40",
+        "Cost":  "$0.90 "
+    },
+    {
+        "Code":  "RF-02",
+        "Description":  "RFID Sleeve Protector",
+        "OM":  "6",
+        "Cost":  "$1.50 "
+    },
+    {
+        "Code":  "RF-01",
+        "Description":  "RFID Card Protector",
+        "OM":  "6",
+        "Cost":  "$2.50 "
+    },
+    {
+        "Code":  "RF-03",
+        "Description":  "RFID Multiple Card Holder",
+        "OM":  "6",
+        "Cost":  "$6.00 "
+    },
+    {
+        "Code":  "",
+        "Description":  "Crazy Rumours",
+        "OM":  "",
+        "Cost":  ""
+    },
+    {
+        "Code":  "8 58699 00123",
+        "Description":  "Crazy Rumours Lip Balm Raspberry Sorbet",
+        "OM":  "12",
+        "Cost":  "$3.90 "
+    },
+    {
+        "Code":  "8 58699 00161",
+        "Description":  "Crazy Rumours Lip Balm Au Naturale",
+        "OM":  "12",
+        "Cost":  "$3.90 "
+    },
+    {
+        "Code":  "8 58699 00108",
+        "Description":  "Crazy Rumours Lip Balm Citrus Bergamot",
+        "OM":  "12",
+        "Cost":  "$3.90 "
+    },
+    {
+        "Code":  "8 58699 00147",
+        "Description":  "Crazy Rumours Lip Balm Ruby Red Grapefruit",
+        "OM":  "12",
+        "Cost":  "$3.90 "
+    },
+    {
+        "Code":  "8 58699 00121",
+        "Description":  "Crazy Rumours Lip Balm Orange Creamsicle",
+        "OM":  "12",
+        "Cost":  "$3.90 "
+    },
+    {
+        "Code":  "8 58699 00165",
+        "Description":  "Crazy Rumours Lip Balm Gingerale",
+        "OM":  "12",
+        "Cost":  "$3.90 "
+    },
+    {
+        "Code":  "8 58699 00166",
+        "Description":  "Crazy Rumours Lip Balm Black Cherry ",
+        "OM":  "12",
+        "Cost":  "$3.90 "
+    },
+    {
+        "Code":  "8 58699 00177",
+        "Description":  "Crazy Rumours Lip Balm Blueberry Lemon",
+        "OM":  "12",
+        "Cost":  "$3.90 "
+    },
+    {
+        "Code":  "8 58699 00101",
+        "Description":  "Crazy Rumours Lip Balm Cofee Bean",
+        "OM":  "12",
+        "Cost":  "$3.90 "
+    },
+    {
+        "Code":  "8 58699 00109",
+        "Description":  "Crazy Rumours Lip Balm Mint Lemongrass",
+        "OM":  "12",
+        "Cost":  "$3.90 "
+    },
+    {
+        "Code":  "8 5689900119",
+        "Description":  "Crazy Rumours Lip Balm Banana Split  ",
+        "OM":  "12",
+        "Cost":  "$3.90 "
+    },
+    {
+        "Code":  "8 5689900191",
+        "Description":  "Crazy Rumours Lip Balm Pina Colada",
+        "OM":  "12",
+        "Cost":  "$3.90 "
+    },
+    {
+        "Code":  "8 58699 00182",
+        "Description":  "Crazy Rumours Lip Balm Pina Hot Cocoa ",
+        "OM":  "12",
+        "Cost":  "$3.90 "
+    },
+    {
+        "Code":  "",
+        "Description":  "Crazy Rumours Lip Balm  Peppermint (   ) Gingerbread (   ) Pumpkin Spice (   )",
+        "OM":  "12",
+        "Cost":  "$3.90 "
+    },
+    {
+        "Code":  "",
+        "Description":  "CC\u0026B Comb and Brush Displays",
+        "OM":  "",
+        "Cost":  ""
+    },
+    {
+        "Code":  "MPC-72",
+        "Description":  "Mens Pocket Combs (72 per display)  ( New Lower Cost )",
+        "OM":  "72",
+        "Cost":  "$0.50"
+    },
+    {
+        "Code":  "DN1020",
+        "Description":  "Neon Fashion Styling Combs assorted (96 per display)   ",
+        "OM":  "96",
+        "Cost":  "$0.60"
+    },
+    {
+        "Code":  "D300 ",
+        "Description":  "Styler Combs Assorted ( 36 per display  )   ",
+        "OM":  "36",
+        "Cost":  "$0.60"
+    },
+    {
+        "Code":  "DS960 ",
+        "Description":  "Tipped Brushes (16 per display )   ",
+        "OM":  "16",
+        "Cost":  "$1.80"
+    },
+    {
+        "Code":  "",
+        "Description":  "Diane",
+        "OM":  "",
+        "Cost":  ""
+    },
+    {
+        "Code":  "D8147",
+        "Description":  "Travel Folding Brush with Mirror  NEW",
+        "OM":  "3",
+        "Cost":  "$3.30"
+    },
+    {
+        "Code":  "D9749",
+        "Description":  "Pro Nylon Styling Pin Brush   ",
+        "OM":  "3",
+        "Cost":  "$9.00"
+    },
+    {
+        "Code":  "D9063",
+        "Description":  "Square Shell Paddle Brush    ",
+        "OM":  "3",
+        "Cost":  "$9.00"
+    },
+    {
+        "Code":  "D8157",
+        "Description":  "100% Boar Military Club Brush  ",
+        "OM":  "3",
+        "Cost":  "$5.40"
+    },
+    {
+        "Code":  "D9172",
+        "Description":  "Royal Satin Large Square Paddle Brush   ",
+        "OM":  "3",
+        "Cost":  "$6.90"
+    },
+    {
+        "Code":  "D3719",
+        "Description":  "Velcro Self Gripping Rollers Pink 7/8\"  6 Pack  ",
+        "OM":  "3",
+        "Cost":  "$4.20"
+    },
+    {
+        "Code":  "D3721",
+        "Description":  "Velcro Self Gripping Rollers Red  1 1/4\"  4 Pack  ",
+        "OM":  "3",
+        "Cost":  "$4.20"
+    },
+    {
+        "Code":  "D3724",
+        "Description":  "Velcro Self Gripping Rollers Purple 2\"  3 pack    ",
+        "OM":  "3",
+        "Cost":  "$4.20"
+    },
+    {
+        "Code":  "D9876",
+        "Description":  "Diane Shave Brush with wood Handle",
+        "OM":  "3",
+        "Cost":  "$6.00 "
+    },
+    {
+        "Code":  "D940",
+        "Description":  "Diane Nail Files 800 at .90 and 40 x 5 packs at 3.00 with free display ",
+        "OM":  "1",
+        "Cost":  "$840.00 "
+    },
+    {
+        "Code":  "Assorted UPC\u0027s",
+        "Description":  "Diane Nail Files Open Stock Assorted ( 16 available styles )",
+        "OM":  "12",
+        "Cost":  "$0.90 "
+    },
+    {
+        "Code":  "",
+        "Description":  "Diane Nail Files 5 packs  ( Assorted Styles )",
+        "OM":  "6",
+        "Cost":  "$3.00 "
+    },
+    {
+        "Code":  "DEM003",
+        "Description":  "Diane Compact Mirror with 1x and 3x Magnification ",
+        "OM":  "3",
+        "Cost":  "$5.40 "
+    },
+    {
+        "Code":  "D1111",
+        "Description":  "Diane Large T.V. Mirror 9 x 12 ",
+        "OM":  "3",
+        "Cost":  "$7.20 "
+    },
+    {
+        "Code":  "D1014",
+        "Description":  "Diane 2 Sided Mirror 1x and 3x Magnification 6 x 10 Black ",
+        "OM":  "3",
+        "Cost":  "$9.00 "
+    },
+    {
+        "Code":  "D1015",
+        "Description":  "Diane 1 sided 11 x 5 Mirror  Temp out of stock back in April",
+        "OM":  "3",
+        "Cost":  "$5.40 "
+    },
+    {
+        "Code":  "D1016",
+        "Description":  "Diane Mirror 2 Sided Handheld ^\" x 11\" ",
+        "OM":  "3",
+        "Cost":  "$7.20 "
+    },
+    {
+        "Code":  "D904",
+        "Description":  "Diane Nail Clippers 72 per Tub",
+        "OM":  "72",
+        "Cost":  "$0.75 "
+    },
+    {
+        "Code":  "D905",
+        "Description":  "Diane Toe Nail Clippers 36 per Tub",
+        "OM":  "36",
+        "Cost":  "$1.50 "
+    },
+    {
+        "Code":  "D925",
+        "Description":  "Diane Nail Metal Nail Files 48 per tub",
+        "OM":  "48",
+        "Cost":  "$1.80 "
+    },
+    {
+        "Code":  "D4391",
+        "Description":  "Diane 20pc Mixed Disposables ",
+        "OM":  "6",
+        "Cost":  "$5.40 "
+    },
+    {
+        "Code":  "D8157",
+        "Description":  "Diane Club / Army Brush Boar Bristle",
+        "OM":  "3",
+        "Cost":  "$5.40 "
+    },
+    {
+        "Code":  "D204",
+        "Description":  "Diane Straight Edge Razor with 2 blades",
+        "OM":  "3",
+        "Cost":  "$6.00 "
+    },
+    {
+        "Code":  "D992",
+        "Description":  "Diane Toe Separators ",
+        "OM":  "12",
+        "Cost":  "$1.20 "
+    },
+    {
+        "Code":  "D711",
+        "Description":  "Diane Manicure / Nail Brush in 48PC display",
+        "OM":  "48",
+        "Cost":  "$2.10 "
+    },
+    {
+        "Code":  "D711",
+        "Description":  "Diane Manicure / Nail Brush open stock",
+        "OM":  "12",
+        "Cost":  "$2.40 "
+    },
+    {
+        "Code":  "D5004",
+        "Description":  "Diane Beard Comb and Shaper",
+        "OM":  "6",
+        "Cost":  "$2.40 "
+    },
+    {
+        "Code":  "D0011",
+        "Description":  "Diane Makeup Remover Cloth  ",
+        "OM":  "6",
+        "Cost":  "$6.00 "
+    },
+    {
+        "Code":  "D0012",
+        "Description":  "Diane Silicone Makeup Blending Sponge",
+        "OM":  "6",
+        "Cost":  "$2.40 "
+    },
+    {
+        "Code":  "D121",
+        "Description":  "Diane Tinkle Eye Brow Razor/Shaper    36 per display box",
+        "OM":  "36",
+        "Cost":  "$1.20 "
+    },
+    {
+        "Code":  "DVW003",
+        "Description":  "Diane  Eye Brow Razor/Shaper      72 per Clear Round display ",
+        "OM":  "72",
+        "Cost":  "$0.90 "
+    },
+    {
+        "Code":  "DVM002",
+        "Description":  "Lord Blaces ( 50 pack )  10 x 5 pack per box   NEW buy 2 get 1 free",
+        "OM":  "1",
+        "Cost":  "$9.00 "
+    },
+    {
+        "Code":  "D3009",
+        "Description":  "Diane 8oz Salon Print Spray Bottle  ",
+        "OM":  "6",
+        "Cost":  "$3.60 "
+    },
+    {
+        "Code":  "D3010",
+        "Description":  "Diane Large 16 oz Salon Print Spray Bottle ",
+        "OM":  "6",
+        "Cost":  "$4.80 "
+    },
+    {
+        "Code":  "D6263",
+        "Description":  "Diane Silicone Facial Mask Applicator Brush",
+        "OM":  "6",
+        "Cost":  "$4.20 "
+    },
+    {
+        "Code":  "D6014 ",
+        "Description":  "Diane Mesh Body Sponges with Suction Cup Holder",
+        "OM":  "6",
+        "Cost":  "$1.80 "
+    },
+    {
+        "Code":  "D6040",
+        "Description":  "Diane Jumbo Mesh Body Sponge",
+        "OM":  "6",
+        "Cost":  "$3.00 "
+    },
+    {
+        "Code":  "D6241",
+        "Description":  "Diane Exfoliating Bath Gloves",
+        "OM":  "6",
+        "Cost":  "$2.40 "
+    },
+    {
+        "Code":  "D6253",
+        "Description":  "Diane Bath Brush Bamboo 17\" with 100% Boar Bristle ",
+        "OM":  "3",
+        "Cost":  "$5.40 "
+    },
+    {
+        "Code":  "D6258",
+        "Description":  "Diane Mesh Bath Sponge 16\"",
+        "OM":  "3",
+        "Cost":  "$3.60 "
+    },
+    {
+        "Code":  "D0014",
+        "Description":  "Diane Charcoal Konjak Facial Sponge  ",
+        "OM":  "6",
+        "Cost":  "$4.80 "
+    },
+    {
+        "Code":  "D819",
+        "Description":  "Diane Facial Brush",
+        "OM":  "6",
+        "Cost":  "$2.40 "
+    },
+    {
+        "Code":  "D401",
+        "Description":  "Diane Cosmetic Bag Large Clear Rectangular ",
+        "OM":  "3",
+        "Cost":  "$7.20 "
+    },
+    {
+        "Code":  "DBB031",
+        "Description":  "Diane Mini Paddle Brush 12 per Display  Buy 24 get 12 Free",
+        "OM":  "12",
+        "Cost":  "$3.00 "
+    },
+    {
+        "Code":  "D8137",
+        "Description":  "Diane Large 2 3/8\" Tint Brush",
+        "OM":  "6",
+        "Cost":  "$1.80 "
+    },
+    {
+        "Code":  "D850",
+        "Description":  "Diane 4 Piece Tint Kit ",
+        "OM":  "6",
+        "Cost":  "$4.20 "
+    },
+    {
+        "Code":  "DC5010",
+        "Description":  "Diane Hair Cut Kit with Free Shampoo Cape ",
+        "OM":  "2",
+        "Cost":  "$17.50 "
+    },
+    {
+        "Code":  "D596",
+        "Description":  "Diane Sheers 6\"   ",
+        "OM":  "3",
+        "Cost":  "$10.80 "
+    },
+    {
+        "Code":  "D598",
+        "Description":  "Diane Thinning Shears 6\" ",
+        "OM":  "3",
+        "Cost":  "$10.80 "
+    },
+    {
+        "Code":  "NCS013T",
+        "Description":  "Fromm Wicker Park Salon Pro Thinning Sheers Boxed  Buy 2 Get 1 Free",
+        "OM":  "2",
+        "Cost":  "$15.00"
+    },
+    {
+        "Code":  "M623",
+        "Description":  "Diane 7\" Mens Styling Combs Loose in Display Jar  ",
+        "OM":  "48",
+        "Cost":  "$0.60 "
+    },
+    {
+        "Code":  "M623",
+        "Description":  "Diane 7\" Mens Styling Combs ( 10 pack ) bag  ",
+        "OM":  "3",
+        "Cost":  "$6.00 "
+    },
+    {
+        "Code":  "DVM001",
+        "Description":  "Mens Grooming Kit    ",
+        "OM":  "3",
+        "Cost":  "$12.00"
+    },
+    {
+        "Code":  "DAG005",
+        "Description":  "Diane 10 pack Black Salon Vinyl Powder Free Gloves   NEW",
+        "OM":  "3",
+        "Cost":  "$4.50 "
+    },
+    {
+        "Code":  "DAG006",
+        "Description":  "Diane 10 pack Black Salon Vinyl Powder Free Gloves   NEW",
+        "OM":  "3",
+        "Cost":  "$4.50 "
+    },
+    {
+        "Code":  "",
+        "Description":  "DM",
+        "OM":  "",
+        "Cost":  ""
+    },
+    {
+        "Code":  "ENR-MANI",
+        "Description":  "En Route Manicure Set 24 per Display ( Low stock )",
+        "OM":  "24",
+        "Cost":  "$3.00 "
+    },
+    {
+        "Code":  "ENRSS-24",
+        "Description":  "En Route  Soaps N Suds 100 pack soap sheets ( 24 per display )",
+        "OM":  "24",
+        "Cost":  "$4.20 "
+    },
+    {
+        "Code":  "ENR-RAZ",
+        "Description":  "En Route Razors ",
+        "OM":  "24",
+        "Cost":  "$3.00 "
+    },
+    {
+        "Code":  "GLOW-MEGA ",
+        "Description":  "Power Pack Mega Glow Sticks ( New ) 24 per display",
+        "OM":  "24",
+        "Cost":  "$3.00 "
+    },
+    {
+        "Code":  "BLU-2BUD",
+        "Description":  "Wireless Bluetooth Stereo Earbuds (12 per Display ) New Premium Style",
+        "OM":  "12",
+        "Cost":  "$18.00 "
+    },
+    {
+        "Code":  "TWZ-TECH",
+        "Description":  "Tweezer Tech Tweezers with Display ( Lower Price )",
+        "OM":  "24",
+        "Cost":  "$3.00 "
+    },
+    {
+        "Code":  "CLIP-TECH",
+        "Description":  "Clipper Tech Clipper with Display",
+        "OM":  "24",
+        "Cost":  "$3.00 "
+    },
+    {
+        "Code":  "SCH-30",
+        "Description":  "3 in 1 Cell Phone Accessory 30 per display",
+        "OM":  "30",
+        "Cost":  "$2.40 "
+    },
+    {
+        "Code":  "CRD-RNG",
+        "Description":  "Card Ring Cell Phone Accessory 24 per display  ( Low stock )",
+        "OM":  "24",
+        "Cost":  "$6.00 "
+    },
+    {
+        "Code":  "LLGNF60",
+        "Description":  "Better Shape Up Glass Nail Files 60 per display NEW",
+        "OM":  "60",
+        "Cost":  "$3.60 "
+    },
+    {
+        "Code":  "PM-1",
+        "Description":  "Pocket Illuminated Magnifier in Smaller 24 pc display",
+        "OM":  "24",
+        "Cost":  "$4.20 "
+    },
+    {
+        "Code":  "CLPTM-24",
+        "Description":  "Opticard Magnifier in 24 PC display",
+        "OM":  "24",
+        "Cost":  "$5.40 "
+    },
+    {
+        "Code":  "BCA-TECH",
+        "Description":  "Pink Power Clippers, Tweezers, and Files PPK with Display",
+        "OM":  "24",
+        "Cost":  "$2.50 "
+    },
+    {
+        "Code":  "SEMIR-AS24",
+        "Description":  "Sage and Emily Dual-Magnification Compact Mirror ",
+        "OM":  "24",
+        "Cost":  "$6.00 "
+    },
+    {
+        "Code":  "OMOS-KKC",
+        "Description":  "Kiss Keeper Lipstick/Lipbalm Holder  ",
+        "OM":  "24",
+        "Cost":  "$4.80 "
+    },
+    {
+        "Code":  "WKPSM24",
+        "Description":  "Pocket Sized Pill Case ( 24 per display )",
+        "OM":  "24",
+        "Cost":  "$4.80 "
+    },
+    {
+        "Code":  "",
+        "Description":  "Fashion Essentials / Be Confident",
+        "OM":  "",
+        "Cost":  ""
+    },
+    {
+        "Code":  "",
+        "Description":  "Be Confident New Packaging Bra Accessories",
+        "OM":  "",
+        "Cost":  ""
+    },
+    {
+        "Code":  "BC-30100LT",
+        "Description":  "Light Discreet Nipple Cover ( New Packaging )",
+        "OM":  "3",
+        "Cost":  "$3.60 "
+    },
+    {
+        "Code":  "BC-30100DK",
+        "Description":  "Dark Discreet Nipple Cover ( New Packaging )",
+        "OM":  "3",
+        "Cost":  "$3.60 "
+    },
+    {
+        "Code":  "BC-30125LT",
+        "Description":  "Soft Silicone Nipple Covers  Reusable Light ( New Packaging )",
+        "OM":  "3",
+        "Cost":  "$7.20 "
+    },
+    {
+        "Code":  "BC-30125DK",
+        "Description":  "Soft Silicone Nipple Covers Reusable Dark ( New Packaging )",
+        "OM":  "3",
+        "Cost":  "$7.20 "
+    },
+    {
+        "Code":  "BC-30000",
+        "Description":  "New Strap Hero( 2 pairs ) ( New Packaging )",
+        "OM":  "3",
+        "Cost":  "$6.00 "
+    },
+    {
+        "Code":  "BC-30075CLR",
+        "Description":  "Comfort Shoulder Cushion  ( New Packaging )",
+        "OM":  "3",
+        "Cost":  "$4.80 "
+    },
+    {
+        "Code":  "BC-30050NR",
+        "Description":  "Racer Back Bra Clip Narrow  ( New Packaging )",
+        "OM":  "3",
+        "Cost":  "$3.60 "
+    },
+    {
+        "Code":  "BC-30050WD",
+        "Description":  "Racer Back Bra Clip Wide  ( New Packaging )",
+        "OM":  "3",
+        "Cost":  "$3.60 "
+    },
+    {
+        "Code":  "BC-30150NR",
+        "Description":  "Invisible Bra Straps 1 Pair  ( New Packaging )",
+        "OM":  "3",
+        "Cost":  "$3.60 "
+    },
+    {
+        "Code":  "BC-30025 2HK",
+        "Description":  "2 Hook Multicolour 3 pc Bra Extenders",
+        "OM":  "3",
+        "Cost":  "$4.80 "
+    },
+    {
+        "Code":  "BC-30025 3HK",
+        "Description":  "3 Hook Multicolour 3 pc Bra Extenders",
+        "OM":  "3",
+        "Cost":  "$4.80 "
+    },
+    {
+        "Code":  "20401",
+        "Description":  "Body Tape in Dispenser ( Top Seller )",
+        "OM":  "6",
+        "Cost":  "$7.20 "
+    },
+    {
+        "Code":  "",
+        "Description":  "Be Confident Custom PPK with Display ( New Breakdown )",
+        "OM":  "1",
+        "Cost":  "$399.40"
+    },
+    {
+        "Code":  "#4008",
+        "Description":  "Wash Bag",
+        "OM":  "3",
+        "Cost":  "$4.20 "
+    },
+    {
+        "Code":  "#4020",
+        "Description":  "Bra Bag ( Not available until July 2023 )",
+        "OM":  "3",
+        "Cost":  "$7.20 "
+    },
+    {
+        "Code":  "2329-WHT",
+        "Description":  "3 Pack Wool Tumblers ( White Box )",
+        "OM":  "3",
+        "Cost":  "$12.00 "
+    },
+    {
+        "Code":  "MC100",
+        "Description":  "Moss Creek 3 Pack Wool Dryer Balls ",
+        "OM":  "3",
+        "Cost":  "$12.00 "
+    },
+    {
+        "Code":  "MCP100063",
+        "Description":  "Moss Creek Floors Stand with 20 white and 10 Gray 3 packs",
+        "OM":  "1",
+        "Cost":  ""
+    },
+    {
+        "Code":  "UPC\u0027s",
+        "Description":  "Specialty Washes 280ml  Swirl (      )      Fresh (      )    Splash (      )",
+        "OM":  "3",
+        "Cost":  "$6.00 "
+    },
+    {
+        "Code":  "LC-14200",
+        "Description":  "Exfolliating Large  Body Buffer ( Pouff ) 80gm",
+        "OM":  "12",
+        "Cost":  "$3.00 "
+    },
+    {
+        "Code":  "LC-14200",
+        "Description":  "Exfolliating Large  Body Buffer ( Pouff ) 80gm  20% off Deal",
+        "OM":  "24",
+        "Cost":  "$2.40 "
+    },
+    {
+        "Code":  "LC-14200",
+        "Description":  "Exfolliating Large  Body Buffer ( Pouff ) 80gm   40% Off Deal",
+        "OM":  "60",
+        "Cost":  "$1.80 "
+    },
+    {
+        "Code":  "LC-14200",
+        "Description":  "Exfolliating Large  Body Buffer ( Pouff ) 80gm  50% Off Deal",
+        "OM":  "120",
+        "Cost":  "$1.50 "
+    },
+    {
+        "Code":  "LC-08070",
+        "Description":  "Get Gorgeous Mani Pedi Set ",
+        "OM":  "6",
+        "Cost":  "$3.60 "
+    },
+    {
+        "Code":  "LC-08070",
+        "Description":  "Get Gorgeous Mani Pedi Set   Volume Deal",
+        "OM":  "12",
+        "Cost":  "$3.00 "
+    },
+    {
+        "Code":  "LC-08070",
+        "Description":  "Get Gorgeous Mani Pedi Set    Volume Deal",
+        "OM":  "24",
+        "Cost":  "$2.40 "
+    },
+    {
+        "Code":  "LC-08070",
+        "Description":  "Get Gorgeous Mani Pedi Set   Volume Deal",
+        "OM":  "36",
+        "Cost":  "$1.80 "
+    },
+    {
+        "Code":  "3D Sleep",
+        "Description":  "New Premium 3D Sleep Face Mask Kit",
+        "OM":  "3",
+        "Cost":  "$7.20 "
+    },
+    {
+        "Code":  "7 71590 01200",
+        "Description":  "Black Sleep Mask w. Ear Plugs",
+        "OM":  "6",
+        "Cost":  "$4.20 "
+    },
+    {
+        "Code":  "7 71590 01205",
+        "Description":  "Saying Sleep Mask and Ear Plugs",
+        "OM":  "6",
+        "Cost":  "$4.80 "
+    },
+    {
+        "Code":  "7 71590 01205",
+        "Description":  "Saying Sleep Mask and Ear Plugs     Volume Deal",
+        "OM":  "12",
+        "Cost":  "$4.00 "
+    },
+    {
+        "Code":  "7 71590 01205",
+        "Description":  "Saying Sleep Mask and Ear Plugs     Volume Deal",
+        "OM":  "24",
+        "Cost":  "$3.60 "
+    },
+    {
+        "Code":  "7 71590 01205",
+        "Description":  "Saying Sleep Mask and Ear Plugs     Volume Deal",
+        "OM":  "36",
+        "Cost":  "$3.00 "
+    },
+    {
+        "Code":  "US-71000",
+        "Description":  "Urban Spa Shower Mirror",
+        "OM":  "3",
+        "Cost":  "$6.00"
+    },
+    {
+        "Code":  "US-71000",
+        "Description":  "Urban Spa Shower Mirror  Buy 4 get 2 Free Deal Price",
+        "OM":  "6",
+        "Cost":  "$4.00"
+    },
+    {
+        "Code":  "6 95645 00316",
+        "Description":  "Mr Pumice ( Pumice Sponge Bar ) 24 per display ",
+        "OM":  "24",
+        "Cost":  "$1.50 "
+    },
+    {
+        "Code":  "",
+        "Description":  "Fragrance Atomizer ( Top Fill ) Bullet (         )  Bling (        ) Lower Price ",
+        "OM":  "6",
+        "Cost":  "$2.10 "
+    },
+    {
+        "Code":  "",
+        "Description":  "Flushie Pre Toilet Sprays ",
+        "OM":  "",
+        "Cost":  ""
+    },
+    {
+        "Code":  "0 739340 04461 9",
+        "Description":  "Flushie Pre Toilet Spray 2 oz Unscented ",
+        "OM":  "3",
+        "Cost":  "$7.80 "
+    },
+    {
+        "Code":  "",
+        "Description":  "GHA-Lindo",
+        "OM":  "",
+        "Cost":  ""
+    },
+    {
+        "Code":  "GHA-306N",
+        "Description":  "Swirly Do\u0027s Neutral ",
+        "OM":  "144",
+        "Cost":  "$0.65 "
+    },
+    {
+        "Code":  "GHA-306C",
+        "Description":  "Swirly Do\u0027s Coloured",
+        "OM":  "144",
+        "Cost":  "$0.65 "
+    },
+    {
+        "Code":  "GHA-307N",
+        "Description":  "Swirly Do\u0027s Neutral ",
+        "OM":  "72",
+        "Cost":  "$1.30 "
+    },
+    {
+        "Code":  "GHA-307C",
+        "Description":  "Swirly Do\u0027s Coloured",
+        "OM":  "72",
+        "Cost":  "$1.30 "
+    },
+    {
+        "Code":  "GHA-302N",
+        "Description":  "Swirly Do 5 Packs Neutral",
+        "OM":  "6",
+        "Cost":  "$4.20 "
+    },
+    {
+        "Code":  "GHA-302C",
+        "Description":  "Swirly Do 5 Packs Colored",
+        "OM":  "6",
+        "Cost":  "$4.20 "
+    },
+    {
+        "Code":  "GHA-712",
+        "Description":  "Ecogrip 4 pack Charcoal Tootbrush  ",
+        "OM":  "6",
+        "Cost":  "$6.90 "
+    },
+    {
+        "Code":  "GHA-4373",
+        "Description":  "Eco Cornstach 75 pack Floss Picks   ",
+        "OM":  "6",
+        "Cost":  "$3.90 "
+    },
+    {
+        "Code":  "GHA-4372",
+        "Description":  "Eco Charcoal 75 pack Floss Picks   ",
+        "OM":  "6",
+        "Cost":  "$3.90 "
+    },
+    {
+        "Code":  "GHA-102",
+        "Description":  "Twist N Roll Tweezers 15 per display",
+        "OM":  "15",
+        "Cost":  "$7.80 "
+    },
+    {
+        "Code":  "GHA-601",
+        "Description":  "Lindo Konjak Facial Sponge",
+        "OM":  "6",
+        "Cost":  "$4.80 "
+    },
+    {
+        "Code":  "GHA-602",
+        "Description":  "Lindo Konjak Body Sponge  ",
+        "OM":  "6",
+        "Cost":  "$6.00 "
+    },
+    {
+        "Code":  "GHA-408",
+        "Description":  "Lindo Hair Crown",
+        "OM":  "3",
+        "Cost":  "$9.00 "
+    },
+    {
+        "Code":  "GHA-406",
+        "Description":  "Lindo Beauty Cloth ( 2 pack ) ",
+        "OM":  "3",
+        "Cost":  "$7.20 "
+    },
+    {
+        "Code":  "GHA-512",
+        "Description":  "Lindo Cuttie Cure Massagers (18 per display) ",
+        "OM":  "18",
+        "Cost":  "$3.60 "
+    },
+    {
+        "Code":  "GHA-401",
+        "Description":  "Pro Tweezer with Blackhead Remover",
+        "OM":  "6",
+        "Cost":  "$4.80 "
+    },
+    {
+        "Code":  "GHA-460",
+        "Description":  "Precision Pro Premium Tweezer",
+        "OM":  "6",
+        "Cost":  "$4.80 "
+    },
+    {
+        "Code":  "GHA-403",
+        "Description":  "Black Out Premium Tweezer",
+        "OM":  "6",
+        "Cost":  "$4.80 "
+    },
+    {
+        "Code":  "GHA-4371",
+        "Description":  "Tongue Cleaner Bamboo 2 pack ",
+        "OM":  "3",
+        "Cost":  "$4.50 "
+    },
+    {
+        "Code":  "GHA-4381",
+        "Description":  "Tongue Scraper Stainless Steel ",
+        "OM":  "3",
+        "Cost":  "$6.00 "
+    },
+    {
+        "Code":  "GHA-561",
+        "Description":  "Thera cup Silicone Cupping Tool ",
+        "OM":  "3",
+        "Cost":  "$4.20 "
+    },
+    {
+        "Code":  "GHA-4358",
+        "Description":  "Satin Hair Scrunchie 6 pack with Zip cosmetic Bag  ",
+        "OM":  "3",
+        "Cost":  "$6.50 "
+    },
+    {
+        "Code":  "GHA-461",
+        "Description":  "Twist N Twirl Facewash Headband ",
+        "OM":  "3",
+        "Cost":  "$7.20 "
+    },
+    {
+        "Code":  "GHA-478",
+        "Description":  "Micro Needle Face Roller .25mm ",
+        "OM":  "3",
+        "Cost":  "$9.00 "
+    },
+    {
+        "Code":  "GHA-481",
+        "Description":  "Lindo Theramask ( 3 in 1 ) Hot Cold and Sleep Mask ",
+        "OM":  "3",
+        "Cost":  "$6.00 "
+    },
+    {
+        "Code":  "GHA-402",
+        "Description":  "Lindo Comb Curler  NEW",
+        "OM":  "3",
+        "Cost":  "$6.00 "
+    },
+    {
+        "Code":  "GHA-458",
+        "Description":  "Mercer Studio Premium lash Comb ",
+        "OM":  "3",
+        "Cost":  "$5.40 "
+    },
+    {
+        "Code":  "GHA-4395",
+        "Description":  "Satin Sleeping Cap Double Sided (2pcs/pk)  ",
+        "OM":  "3",
+        "Cost":  "$9.00 "
+    },
+    {
+        "Code":  "GHA-4424",
+        "Description":  "Bamboo Pedicure Tool ( 4 in 1 )  ",
+        "OM":  "3",
+        "Cost":  "$6.00 "
+    },
+    {
+        "Code":  "GHA-4330",
+        "Description":  "Natural Wood Dry Body Brush ",
+        "OM":  "3",
+        "Cost":  "$6.00 "
+    },
+    {
+        "Code":  "",
+        "Description":  "Lindo Clip On Fashion Hair Extensions Assorted Colours ",
+        "OM":  "12",
+        "Cost":  "$1.80"
+    },
+    {
+        "Code":  "",
+        "Description":  "Isoflex",
+        "OM":  "",
+        "Cost":  ""
+    },
+    {
+        "Code":  "0 76022 32050",
+        "Description":  "Isoflex Original",
+        "OM":  "24",
+        "Cost":  "$4.80 "
+    },
+    {
+        "Code":  "0 76022 32094",
+        "Description":  "Isoflex Marblized",
+        "OM":  "24",
+        "Cost":  "$4.80 "
+    },
+    {
+        "Code":  "",
+        "Description":  "JBG",
+        "OM":  "",
+        "Cost":  ""
+    },
+    {
+        "Code":  "Assorted",
+        "Description":  "Mens Lambskin Wallets assorted",
+        "OM":  "3",
+        "Cost":  "$10.00 "
+    },
+    {
+        "Code":  "Assorted",
+        "Description":  "Mens Cowhide Leather Wallets Boxed",
+        "OM":  "3",
+        "Cost":  "$21.00 "
+    },
+    {
+        "Code":  "Assorted",
+        "Description":  "Ladies Lambkin Wallets",
+        "OM":  "3",
+        "Cost":  "$21.00 "
+    },
+    {
+        "Code":  "Assorted",
+        "Description":  "Ladies Premium Cowhide Wallet Boxed",
+        "OM":  "3",
+        "Cost":  "$33.00 "
+    },
+    {
+        "Code":  "C-11",
+        "Description":  "Leather Fashion Wallet ( 12 pc Assortment )",
+        "OM":  "12",
+        "Cost":  "$6.00 "
+    },
+    {
+        "Code":  "NP-105",
+        "Description":  "Ladies Fashion Organizer",
+        "OM":  "12",
+        "Cost":  "$15.00 "
+    },
+    {
+        "Code":  "Assorted",
+        "Description":  "Leather Passport Holder",
+        "OM":  "3",
+        "Cost":  "$15.00 "
+    },
+    {
+        "Code":  "Assorted",
+        "Description":  "Leather Shave Kits Price Change",
+        "OM":  "3",
+        "Cost":  "$30.00 "
+    },
+    {
+        "Code":  "Assorted",
+        "Description":  "LeatherCrossover / Belt Bags ",
+        "OM":  "3",
+        "Cost":  "$15.00 "
+    },
+    {
+        "Code":  "Assorted",
+        "Description":  "Leather  Credit Card / ID holders ( Minimalist Wallet )",
+        "OM":  "3",
+        "Cost":  "$9.00"
+    },
+    {
+        "Code":  "",
+        "Description":  "Modele",
+        "OM":  "",
+        "Cost":  ""
+    },
+    {
+        "Code":  "8 15784 00454 8",
+        "Description":  "Model \"Plump\"  Collagen Lip Treatment  NEW   ( 6 per display )",
+        "OM":  "3",
+        "Cost":  "$18.00"
+    },
+    {
+        "Code":  "8 15874 00452 4",
+        "Description":  "Model \"Sealed\"  Lipstick Sealer  NEW  ( 6 per display )",
+        "OM":  "3",
+        "Cost":  "$8.00"
+    },
+    {
+        "Code":  "",
+        "Description":  "Miscallaneous Items",
+        "OM":  "",
+        "Cost":  ""
+    },
+    {
+        "Code":  "",
+        "Description":  "Toe Rings Enamel (     )  Mixed (      ) with foam foot display",
+        "OM":  "25",
+        "Cost":  "$1.20 "
+    },
+    {
+        "Code":  "",
+        "Description":  "Womens CZ Cocktail Rings on Velvet Tray Display",
+        "OM":  "36",
+        "Cost":  "$9.00"
+    },
+    {
+        "Code":  "",
+        "Description":  "Belly Rings 10 Piece Box display or 24 Piece Easel Display",
+        "OM":  "10",
+        "Cost":  "$6.00"
+    },
+    {
+        "Code":  "",
+        "Description":  "Nose Studs  ( Ball End )    Clear (        )       Coloured (       )  ",
+        "OM":  "24/120",
+        "Cost":  "$1.20 "
+    },
+    {
+        "Code":  "",
+        "Description":  "Nose Pins   ( Straight Pin )       Clear (        )         Coloured (         )",
+        "OM":  "24/120",
+        "Cost":  "$1.20 "
+    },
+    {
+        "Code":  "",
+        "Description":  "One N Only Perm Kits ( Available Mid July 2021 )",
+        "OM":  "",
+        "Cost":  ""
+    },
+    {
+        "Code":  "8243",
+        "Description":  "One N Only Perm Kit Low Ammonia Texturizing (  50% Off )",
+        "OM":  "3",
+        "Cost":  "$9.00"
+    },
+    {
+        "Code":  "8242",
+        "Description":  "One N Only Perm Kit Shiny Silver for Gray Hair   ( 50% Off  )",
+        "OM":  "3",
+        "Cost":  "$9.00"
+    },
+    {
+        "Code":  "8241",
+        "Description":  "One N Only Perm Kit Acid Extra Body    ( 50% OFF )",
+        "OM":  "3",
+        "Cost":  "$9.00"
+    },
+    {
+        "Code":  "8240",
+        "Description":  "One N Only Perm Kit Acid    ( 50% OFF )",
+        "OM":  "3",
+        "Cost":  "$9.00"
+    },
+    {
+        "Code":  "8244",
+        "Description":  "One N Only Perm Kit Moisturizing Alkaline    (  50% OFF )",
+        "OM":  "3",
+        "Cost":  "$9.00"
+    },
+    {
+        "Code":  "UPC\u0027s",
+        "Description":  "Genial Digital Flex Thermometer  LOWER PRICE",
+        "OM":  "6",
+        "Cost":  "$3.60 "
+    },
+    {
+        "Code":  "SCCMASK36",
+        "Description":  "Gitter / Bling Masks Assorted 36 per display  ( Lower Priced 50% off )",
+        "OM":  "36",
+        "Cost":  "$2.70 "
+    },
+    {
+        "Code":  "CCMATE36",
+        "Description":  "Mask Mate Headband ( 36 in Display ) Lower Price 50% off",
+        "OM":  "36",
+        "Cost":  "$2.40 "
+    },
+    {
+        "Code":  "CCLAN36",
+        "Description":  "Premium Design Mask Lanyards ( 36 in display ) Lower Price 50% off",
+        "OM":  "36",
+        "Cost":  "$1.80 "
+    },
+    {
+        "Code":  "",
+        "Description":  "Basic Mask Lanyards in Jar Display ",
+        "OM":  "40",
+        "Cost":  "$1.20 "
+    },
+    {
+        "Code":  "",
+        "Description":  "Sharkeyes Optical",
+        "OM":  "",
+        "Cost":  ""
+    },
+    {
+        "Code":  "7 39042 60293",
+        "Description":  "Magnifier 72 piece INU-1 Display ",
+        "OM":  "72",
+        "Cost":  "$1.80 "
+    },
+    {
+        "Code":  "73904200735",
+        "Description":  "Slimline Readers 30 piece display (SR27-30)",
+        "OM":  "30",
+        "Cost":  "$6.00 "
+    },
+    {
+        "Code":  "7 74471 03331",
+        "Description":  "Power Del Reading Glasses with LED Lights 25 per display",
+        "OM":  "25",
+        "Cost":  "$4.80 "
+    },
+    {
+        "Code":  "DUMB-BLR24",
+        "Description":  "Blue Blockers 24 piece Display (NEW)",
+        "OM":  "24",
+        "Cost":  "$10.80 "
+    },
+    {
+        "Code":  "DUM3PK24",
+        "Description":  "Unisex Triple Pack Readers in 24 piece Display (NEW)",
+        "OM":  "24",
+        "Cost":  "$9.00 "
+    },
+    {
+        "Code":  "UVFITOVER18",
+        "Description":  "UV Fitover Sunglasses in 18 piece Display  (NEW) Sept 2022",
+        "OM":  "18",
+        "Cost":  "$7.80 "
+    },
+    {
+        "Code":  "NDPOL12CD2",
+        "Description":  "Night Driver Polarized Sunglasses with MF cloth 12 pc Disp. ( NEW ) Sept 2022",
+        "OM":  "12",
+        "Cost":  "$10.20 "
+    },
+    {
+        "Code":  "MFR-24",
+        "Description":  "Multi Focus Readers 24 Piece Display ( MFR24 )",
+        "OM":  "24",
+        "Cost":  "$12.00 "
+    },
+    {
+        "Code":  "",
+        "Description":  "Foster Grant Asst. Brands Fashion Sunglasses ( Seasonal pre book)",
+        "OM":  "12",
+        "Cost":  "$6.00 "
+    },
+    {
+        "Code":  "",
+        "Description":  "QMD Disposables",
+        "OM":  "",
+        "Cost":  ""
+    },
+    {
+        "Code":  "780",
+        "Description":  "Deluxe (tapered) Mascara Brush 25pack",
+        "OM":  "3",
+        "Cost":  "$6.00 "
+    },
+    {
+        "Code":  "782L",
+        "Description":  "Deluxe Lip Brush 25 pack ( Longer Handle )",
+        "OM":  "3",
+        "Cost":  "$7.00 "
+    },
+    {
+        "Code":  "773",
+        "Description":  "Lip Brush Kanegoat 25 pack",
+        "OM":  "3",
+        "Cost":  "$3.75 "
+    },
+    {
+        "Code":  "786",
+        "Description":  "Precision Liner 100 pack",
+        "OM":  "3",
+        "Cost":  "$25.00 "
+    },
+    {
+        "Code":  "770",
+        "Description":  "Eyeliner (tapered) Brush 25 pack",
+        "OM":  "1",
+        "Cost":  "$5.00 "
+    },
+    {
+        "Code":  "779",
+        "Description":  "Spatulas Frosted 3\" 50 pack",
+        "OM":  "3",
+        "Cost":  "$5.00 "
+    },
+    {
+        "Code":  "783",
+        "Description":  "Lip Gloss Applicator 50 pack",
+        "OM":  "1",
+        "Cost":  "$10.00 "
+    },
+    {
+        "Code":  "796",
+        "Description":  "2\"Non Latex Facial Sponges 96 pack",
+        "OM":  "1",
+        "Cost":  "$10.00 "
+    },
+    {
+        "Code":  "800",
+        "Description":  "Disposable Jars with Lids 100 pack",
+        "OM":  "1",
+        "Cost":  "$50.00 "
+    },
+    {
+        "Code":  "820",
+        "Description":  "2 ml Clear Spray Vials 100 per Bag",
+        "OM":  "1",
+        "Cost":  "$50.00 "
+    },
+    {
+        "Code":  "NEW",
+        "Description":  "8 ml Spray Vials 50 per bag  (New) Can be used as Perfume Atomizers",
+        "OM":  "1",
+        "Cost":  "$50.00 "
+    },
+    {
+        "Code":  "NEW",
+        "Description":  "Fragrance Tester Strips 100 pack",
+        "OM":  "3",
+        "Cost":  "$5.00 "
+    },
+    {
+        "Code":  "93509",
+        "Description":  "Diamond Wipes Acetone Nail Polish Remover Pads 100 pack",
+        "OM":  "1",
+        "Cost":  "$50.00 "
+    },
+    {
+        "Code":  "",
+        "Description":  "Rebels Refinery  NEW",
+        "OM":  "",
+        "Cost":  ""
+    },
+    {
+        "Code":  "RR-25",
+        "Description":  "25 Piece Rebels Refinery Lip Balms ( 5 of each with Display )  NEW",
+        "OM":  "1",
+        "Cost":  "$97.50"
+    },
+    {
+        "Code":  "6 2845169995",
+        "Description":  "Lip Balm  Key Lime ( Teal Pineapple )",
+        "OM":  "3",
+        "Cost":  "$3.90"
+    },
+    {
+        "Code":  "6 2845169916",
+        "Description":  "Lip Balm Strawberry Mango ( Pink Pineapple )",
+        "OM":  "3",
+        "Cost":  "$3.90"
+    },
+    {
+        "Code":  "0 55664 10007",
+        "Description":  "Lip Balm Orange Dreamsicle ( Orange Icecream )",
+        "OM":  "3",
+        "Cost":  "$3.90"
+    },
+    {
+        "Code":  "0 55664 10000 ",
+        "Description":  "Lip Balm Blue Raspberry  ( Blue Icecream )",
+        "OM":  "3",
+        "Cost":  "$3.90"
+    },
+    {
+        "Code":  "6 28451 69993",
+        "Description":  "Lip Balm Summer Citrus  ( Teal Cactus )",
+        "OM":  "3",
+        "Cost":  "$3.90"
+    },
+    {
+        "Code":  "6 27843 40113 1",
+        "Description":  "Lip Bam Mint ( Black Skeleton )",
+        "OM":  "3",
+        "Cost":  "$3.90"
+    },
+    {
+        "Code":  "RR-40 ",
+        "Description":  "40 Piece Rebels Refinery Stick Lip Balms ( 10 of each with display )",
+        "OM":  "1",
+        "Cost":  "$120.00"
+    },
+    {
+        "Code":  "6 28451 69927 9",
+        "Description":  "Stick Lip Balm Black Mint",
+        "OM":  "3",
+        "Cost":  "$3.00"
+    },
+    {
+        "Code":  "0 55664 10075 7",
+        "Description":  "Stick Lip Balm Teal Summer Citrus",
+        "OM":  "3",
+        "Cost":  "$3.00"
+    },
+    {
+        "Code":  "0 55664 10076 4",
+        "Description":  "Stick Lip Balm Pink Strawberry Mango",
+        "OM":  "3",
+        "Cost":  "$3.00"
+    },
+    {
+        "Code":  "0 55664 10077",
+        "Description":  "Stick Lip Balm Purple Grape",
+        "OM":  "3",
+        "Cost":  "$3.00"
+    },
+    {
+        "Code":  "",
+        "Description":  "Urban Spa",
+        "OM":  "",
+        "Cost":  ""
+    },
+    {
+        "Code":  "7-71590-01140-9",
+        "Description":  "Urban Spa The Travel Kit",
+        "OM":  "6",
+        "Cost":  "$6.00 "
+    },
+    {
+        "Code":  "7 71590 07040 6",
+        "Description":  "Urban Spa Beautiful Brush Kit with lower price was18.00",
+        "OM":  "6",
+        "Cost":  "$12.00"
+    },
+    {
+        "Code":  "7 71590 07041",
+        "Description":  "Urban Spa Made You Blush Brush     NEW",
+        "OM":  "3",
+        "Cost":  "$9.00"
+    },
+    {
+        "Code":  "7 71590 07042",
+        "Description":  "Urban Spa Perfect Performance Foundation Brush     NEW",
+        "OM":  "3",
+        "Cost":  "$9.00"
+    },
+    {
+        "Code":  "7 71590 07043",
+        "Description":  "Urban Spa Fluffy Powder and Bronzer Brush    NEW",
+        "OM":  "3",
+        "Cost":  "$10.19"
+    },
+    {
+        "Code":  "7 71590 07044",
+        "Description":  "Urban Spa Lovely Lid Duo    NEW",
+        "OM":  "",
+        "Cost":  "$9.00"
+    },
+    {
+        "Code":  "7 71590 07045",
+        "Description":  "Urban Spa Take a Bow Brow Duo   NEW",
+        "OM":  "",
+        "Cost":  "$9.00"
+    },
+    {
+        "Code":  "6-28338-07200-3",
+        "Description":  "Urban Spa All Over Body Buffer",
+        "OM":  "6",
+        "Cost":  "$6.00 "
+    },
+    {
+        "Code":  "7-71590-11100-0",
+        "Description":  "Urban Spa The Perfect Body Brush",
+        "OM":  "6",
+        "Cost":  "$7.80 "
+    },
+    {
+        "Code":  "7-71590-11120-8",
+        "Description":  "Urban Spa Classic Nail Brush",
+        "OM":  "12",
+        "Cost":  "$3.60 "
+    },
+    {
+        "Code":  "7-71590-11125-3",
+        "Description":  "Urban Spa Bamboo Bikini Brush",
+        "OM":  "6",
+        "Cost":  "$7.80 "
+    },
+    {
+        "Code":  "6-28338-11127-6",
+        "Description":  "Urban Spa The body therapy brush",
+        "OM":  "6",
+        "Cost":  "$9.30 "
+    },
+    {
+        "Code":  "7-71590-11300-4",
+        "Description":  "Urban Spa Flat-out Loofah",
+        "OM":  "6",
+        "Cost":  "$4.20 "
+    },
+    {
+        "Code":  "7-71590-11420-9",
+        "Description":  "Urban Spa Serious Sisal Buffer",
+        "OM":  "6",
+        "Cost":  "$6.00 "
+    },
+    {
+        "Code":  "7-71590-11520-6",
+        "Description":  "Urban Spa Style Defender Shower Cap",
+        "OM":  "6",
+        "Cost":  "$4.20 "
+    },
+    {
+        "Code":  "7-71590-11530-5",
+        "Description":  "Urban Spa Bouclé Bath Mitt",
+        "OM":  "6",
+        "Cost":  "$4.80 "
+    },
+    {
+        "Code":  "6-28338-11535-9",
+        "Description":  "Urban Spa Urban spa brilliant bath mitt",
+        "OM":  "6",
+        "Cost":  "$4.80 "
+    },
+    {
+        "Code":  "7-71590-11700-2",
+        "Description":  "Urban Spa Loads of Lather Puff",
+        "OM":  "12",
+        "Cost":  "$2.10 "
+    },
+    {
+        "Code":  "7-71590-11800-9",
+        "Description":  "Urban Spa Fabulous Face Sea Sponges",
+        "OM":  "6",
+        "Cost":  "$6.00 "
+    },
+    {
+        "Code":  "7-71590-11900-6",
+        "Description":  "Urban Spa All Natural Sea Sponge",
+        "OM":  "6",
+        "Cost":  "$8.00 "
+    },
+    {
+        "Code":  "7-71590-11921-1",
+        "Description":  "Urban Spa Big Squeeze Body Sponge",
+        "OM":  "6",
+        "Cost":  "$6.60"
+    },
+    {
+        "Code":  "7-71590-11925-9",
+        "Description":  "Urban Spa Tough Nut Facial Buffer",
+        "OM":  "6",
+        "Cost":  "$3.60 "
+    },
+    {
+        "Code":  "6-28338-11930-2",
+        "Description":  "Urban Spa Konjac Facial Sponge",
+        "OM":  "6",
+        "Cost":  "$6.60 "
+    },
+    {
+        "Code":  "7-71590-11935-7",
+        "Description":  "Urban Spa Wool Facial Brush  with lower price was 10.20",
+        "OM":  "6",
+        "Cost":  "$9.00"
+    },
+    {
+        "Code":  "7-71590-12000-2",
+        "Description":  "Urban Spa The Mani-Pedi Pack",
+        "OM":  "6",
+        "Cost":  "$4.20 "
+    },
+    {
+        "Code":  "7-71590-12050-7",
+        "Description":  "Urban Spa Get a Grip Trio with lower price was 8.40",
+        "OM":  "6",
+        "Cost":  "$6.60"
+    },
+    {
+        "Code":  "7-71590-21000-0",
+        "Description":  "Urban Spa Heel to Toe Foot Brush  with lower price was 4.20",
+        "OM":  "6",
+        "Cost":  "$3.60"
+    },
+    {
+        "Code":  "7-71590-21010-9",
+        "Description":  "Urban Spa Basic Foot File",
+        "OM":  "6",
+        "Cost":  "$3.00 "
+    },
+    {
+        "Code":  "7-71590-21020-8",
+        "Description":  "Urban Spa Love that Lava Pumice",
+        "OM":  "6",
+        "Cost":  "$2.40 "
+    },
+    {
+        "Code":  "7-71590-41300-5",
+        "Description":  "Urban Spa Must Have Moisturizing Gloves",
+        "OM":  "6",
+        "Cost":  "$4.20 "
+    },
+    {
+        "Code":  "7-71590-41350-0",
+        "Description":  "Urban Spa Get Glowing Gloves",
+        "OM":  "6",
+        "Cost":  "$4.20 "
+    },
+    {
+        "Code":  "7-71590-61000-8",
+        "Description":  "Urban Spa Smooth as silk hair brush",
+        "OM":  "6",
+        "Cost":  "$5.40 "
+    },
+    {
+        "Code":  "7-71590-61100-5",
+        "Description":  "Urban Spa Massage Hairbrush",
+        "OM":  "6",
+        "Cost":  "$5.40 "
+    },
+    {
+        "Code":  "7-71590-61200-2",
+        "Description":  "Urban Spa The Soap Caddy",
+        "OM":  "6",
+        "Cost":  "$5.40 "
+    },
+    {
+        "Code":  "7-71590-61600-2",
+        "Description":  "Urban Spa Bedtime Booties  with lower price was 4.80",
+        "OM":  "6",
+        "Cost":  "$4.20"
+    },
+    {
+        "Code":  "7-71590-61800-4",
+        "Description":  "Urban Spa Lovely Lavender Eye Pillow",
+        "OM":  "6",
+        "Cost":  "$10.80 "
+    },
+    {
+        "Code":  "7-71590-61850-9",
+        "Description":  "Urban Spa Feel Better Eye Mask",
+        "OM":  "6",
+        "Cost":  "$6.60 "
+    },
+    {
+        "Code":  "7-71590-61900-1",
+        "Description":  "Urban Spa This is Bliss Bath Pillow",
+        "OM":  "6",
+        "Cost":  "$7.80 "
+    },
+    {
+        "Code":  "7-71590-99080-3",
+        "Description":  "Urban Spa Bamboo Bath Pouf",
+        "OM":  "6",
+        "Cost":  "$5.40 "
+    },
+    {
+        "Code":  "7-71590-99085-8",
+        "Description":  "Urban Spa the Only Headband",
+        "OM":  "6",
+        "Cost":  "$5.40"
+    },
+    {
+        "Code":  "7-71590-99090-2",
+        "Description":  "Urban Spa The Savy Sister Turban",
+        "OM":  "6",
+        "Cost":  "$9.00"
+    },
+    {
+        "Code":  "7-71590-99100-8",
+        "Description":  "Urban Spa Sudsy Soap Sleeve",
+        "OM":  "6",
+        "Cost":  "$4.20 "
+    },
+    {
+        "Code":  "7-71590-99200-5",
+        "Description":  "Urban Spa The Bamboo Anti-Cellulite Brush",
+        "OM":  "6",
+        "Cost":  "$10.80 "
+    },
+    {
+        "Code":  "7-71590-99201-2",
+        "Description":  "Urban Spa The Best Ever Foot Paddle",
+        "OM":  "6",
+        "Cost":  "$5.99 "
+    },
+    {
+        "Code":  "",
+        "Description":  "Urban Spa Carboard Floorstand PPK  ( Less 25% off Invoice while Quantities Last )",
+        "OM":  "1",
+        "Cost":  "$1,080.90"
+    },
+    {
+        "Code":  "",
+        "Description":  "CONAIR ",
+        "OM":  "",
+        "Cost":  ""
+    },
+    {
+        "Code":  "GMT170AC",
+        "Description":  "CONAIR TRIMMR DUAL HEAD",
+        "OM":  "3",
+        "Cost":  "$19.50"
+    },
+    {
+        "Code":  "HC95NNC",
+        "Description":  "CONAIR HAIRCUT KIT NUMBER CUT",
+        "OM":  "3",
+        "Cost":  "$24.50"
+    },
+    {
+        "Code":  "CD80NCSRRC",
+        "Description":  "CONAIR IRON INSTANT HEAT 1/2 inch    ( June 2023 )",
+        "OM":  "3",
+        "Cost":  "$17.50"
+    },
+    {
+        "Code":  "CD87NCSRRC",
+        "Description":  "CONAIR IRON INSTANT HEAT 1 inch",
+        "OM":  "3",
+        "Cost":  "$17.50"
+    },
+    {
+        "Code":  "CD82NCSRRC",
+        "Description":  "CONAIR IRON INSTANT HEAT 1 1/4 inch",
+        "OM":  "3",
+        "Cost":  "$19.00"
+    },
+    {
+        "Code":  "CS89PKC",
+        "Description":  "CONAIR STRAIGHTENER TOURMALINE CERAMIC ",
+        "OM":  "3",
+        "Cost":  "$30.00"
+    },
+    {
+        "Code":  "CS221NC",
+        "Description":  "CONAIR CERAMIC 1IN STRAIGHTENER",
+        "OM":  "2",
+        "Cost":  "$32.00"
+    },
+    {
+        "Code":  "124AC",
+        "Description":  "CONAIR DRYER FOLDING HANDLE TTAVEL WITH DUAL VOLTAGE  ",
+        "OM":  "3",
+        "Cost":  "$18.00"
+    },
+    {
+        "Code":  "INF129RC",
+        "Description":  "CONAIR DRYER INFINITI COMPACT  ",
+        "OM":  "3",
+        "Cost":  "$21.00"
+    },
+    {
+        "Code":  "318XRC",
+        "Description":  "Conair Mid Size Precise Styler Hair Dryer ( June 2023 )",
+        "OM":  "3",
+        "Cost":  "$18.00"
+    }
+]
