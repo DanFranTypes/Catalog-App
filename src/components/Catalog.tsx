@@ -24,10 +24,22 @@ const Catalog: React.FC = () => {
       <h1>Catalog</h1>
       {catalogData.map((item) => (
         <div key={item.Code}>
-          <h3>{item.Description}</h3>
-          <p>Code: {item.Code}</p>
-          <p>OM: {item.OM}</p>
-          <p>Cost: {item.Cost}</p>
+          {item.Cost ? (
+            <div>
+              <h3>
+                {item.Description}
+              </h3>
+              <p>
+                <span> Cost: {item.Cost} | |   </span> 
+                <span> OM: {item.OM} | | </span> 
+                <span> Code: {item.Code}</span> 
+              </p>
+            </div>
+          ) : (
+            <p style={{ fontWeight: 'bold', fontSize: '1.2em', textDecoration: 'underline' }}>
+              {item.Description}
+            </p>
+          )}
         </div>
       ))}
     </div>
