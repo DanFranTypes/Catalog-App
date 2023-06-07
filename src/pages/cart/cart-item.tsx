@@ -3,11 +3,12 @@ import { ShopContext } from '../../context/shop-context';
 
 interface CartItemProps {
     data: {
-      code: string;
-      description: string;
-      cost: number;
-      productImage: string;
+      Code: string;
+      Description: string;
+      Cost: number;
+      ProductImage: string;
     };
+    quantity: number;
     handleAddToCart: (itemId: string) => void;
     handleRemoveFromCart: (itemId: string) => void;
     handleUpdateCartItemCount: (itemId: string, newQuantity: number) => void;
@@ -15,24 +16,24 @@ interface CartItemProps {
   
 
 export const CartItem = (props: CartItemProps) => {
-  const { code, description, cost, productImage } = props.data;
+  const { Code, Description, Cost, ProductImage } = props.data;
   const { addToCart, cartItems, removeFromCart, updateCartItemCount } = useContext(ShopContext);
 
   return (
     <div className='cartItem'>
-      <img src={productImage} alt='Product' />
+      <img src={ProductImage} alt='Product' />
       <div className='description'>
         <p>
-          <b>{description}</b>
+          <b>{Description}</b>
         </p>
-        <p>${cost}</p>
+        <p>${Cost}</p>
         <div className='countHandler'>
-          <button onClick={() => removeFromCart(code)}> - </button>
+          <button onClick={() => removeFromCart(Code)}> - </button>
           <input
-            value={cartItems[code]}
-            onChange={(e) => updateCartItemCount(Number(e.target.value), code)}
+            value={cartItems[Code]}
+            onChange={(e) => updateCartItemCount(Number(e.target.value), Code)}
           />
-          <button onClick={() => addToCart(code)}> + </button>
+          <button onClick={() => addToCart(Code)}> + </button>
         </div>
       </div> 
     </div>

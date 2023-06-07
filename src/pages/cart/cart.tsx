@@ -13,26 +13,15 @@ export const Cart = () => {
   const updateTotalCartAmount = () => {
     let totalAmount = 0;
     for (const [itemId, quantity] of Object.entries(cartItems)) {
-      const item = catalogData.filter(product => product.code === itemId)[0];
-      totalAmount += (quantity as number) * (item?.cost ?? 0);
+      const item = catalogData.find((product) => product.Code === itemId);
+      totalAmount += (quantity as number) * (item?.[0]?.Cost ?? 0);
     }
     setTotalCartAmount(totalAmount);
   };
 
   useEffect(() => {
-    // Fetch the catalog data when the component mounts
-    const fetchCatalogData = async () => {
-      try {
-        const response = await fetch('/catalog.json');
-        const data = await response.json();
-        setCatalogData(data);
-        updateTotalCartAmount();
-      } catch (error) {
-        console.error('Error fetching catalog data:', error);
-      }
-    };
-    fetchCatalogData();
-  }, []);
+    updateTotalCartAmount();
+  }, [cartItems, catalogData]);
 
   const handleAddToCart = (itemId: string) => {
     const newCartItems = { ...cartItems, [itemId]: (cartItems[itemId] || 0) + 1 };
@@ -62,12 +51,13 @@ export const Cart = () => {
         {Object.keys(cartItems).map((productId: string) => {
           const quantity = cartItems[productId];
           if (quantity > 0) {
-            const item = catalogData.filter(product => product.code === productId)[0];
+            const item = catalogData.filter(product => product.Code === productId)[0];
             if (item) {
               return (
                 <CartItem
-                  key={item.code}
+                  key={item.Code}
                   data={item}
+                  quantity={quantity}
                   handleAddToCart={handleAddToCart}
                   handleRemoveFromCart={handleRemoveFromCart}
                   handleUpdateCartItemCount={handleUpdateCartItemCount}
