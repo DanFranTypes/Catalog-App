@@ -2,13 +2,17 @@ import React, { useContext } from 'react';
 import { ShopContext } from '../../context/shop-context';
 
 interface CartItemProps {
-  data: {
-    code: string;
-    description: string;
-    cost: number;
-    productImage: string;
-  };
-}
+    data: {
+      code: string;
+      description: string;
+      cost: number;
+      productImage: string;
+    };
+    handleAddToCart: (itemId: string) => void;
+    handleRemoveFromCart: (itemId: string) => void;
+    handleUpdateCartItemCount: (itemId: string, newQuantity: number) => void;
+  }
+  
 
 export const CartItem = (props: CartItemProps) => {
   const { code, description, cost, productImage } = props.data;
