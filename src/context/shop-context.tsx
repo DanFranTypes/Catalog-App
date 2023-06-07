@@ -10,7 +10,7 @@ export interface ShopContextValue {
   getTotalCartAmount: () => number;
   catalogData: any[];
   setCatalogData: React.Dispatch<React.SetStateAction<any[]>>;
-
+  setCartItems: React.Dispatch<React.SetStateAction<{ [itemId: string]: number }>>;
 }
 
 export const ShopContext = createContext<ShopContextValue>(
@@ -80,6 +80,7 @@ export const ShopContextProvider = ({
     getTotalCartAmount,
     catalogData,
     setCatalogData,
+    setCartItems,
   };
 
   return (

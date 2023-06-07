@@ -3,7 +3,7 @@ import './catalog.css';
 import { ShopContext } from '../context/shop-context';
 
 const Catalog: React.FC = () => {
-  const { addToCart, cartItems, catalogData, setCatalogData } = useContext(ShopContext);
+  const { addToCart, cartItems, catalogData, setCatalogData, setCartItems } = useContext(ShopContext);
 
   useEffect(() => {
     // Fetch the catalog data from the file
@@ -20,14 +20,19 @@ const Catalog: React.FC = () => {
     fetchCatalogData();
   }, [setCatalogData]);
 
+  const handleAddToCart = (item: any) => {
+    addToCart(item.Code);
+    setCartItems((prevCartItems: { [itemId: string]: number }) => ({
+      ...prevCartItems,
+      [item.Code]: (prevCartItems[item.Code] || 0) + 1
+    }));
+  };
+
   return (
     <div className='catalog'>
       <h1>Catalog</h1>
       {catalogData.map((item) => {
         const cartItemAmount = cartItems[item.Code] || 0;
-        const handleAddToCart = (item: any) => {
-          addToCart(item.Code);
-        };
 
         return (
           <div key={item.Code}>

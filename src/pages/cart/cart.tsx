@@ -5,23 +5,25 @@ import './cart.css';
 import { useNavigate } from 'react-router-dom';
 
 export const Cart = () => {
-  const { getTotalCartAmount, catalogData, setCatalogData } = useContext(ShopContext);
-  const [cartItems, setCartItems] = useState<{ [itemId: string]: number }>({});
-  const [totalCartAmount, setTotalCartAmount] = useState(0);
-  const navigate = useNavigate();
-
-  const updateTotalCartAmount = () => {
-    let totalAmount = 0;
-    for (const [itemId, quantity] of Object.entries(cartItems)) {
-      const item = catalogData.find((product) => product.Code === itemId);
-      totalAmount += (quantity as number) * (item?.[0]?.Cost ?? 0);
-    }
-    setTotalCartAmount(totalAmount);
-  };
-
-  useEffect(() => {
-    updateTotalCartAmount();
-  }, [cartItems, catalogData]);
+    const { catalogData } = useContext(ShopContext);
+    const [cartItems, setCartItems] = useState<{ [itemId: string]: number }>({});
+    const [totalCartAmount, setTotalCartAmount] = useState(0);
+    const navigate = useNavigate();
+  
+    const updateTotalCartAmount = () => {
+      console.log("Updating total cart amount");
+      let totalAmount = 0;
+      for (const [itemId, quantity] of Object.entries(cartItems)) {
+        const item = catalogData.find((product) => product.Code === itemId);
+        totalAmount += (quantity as number) * (item?.[0]?.Cost ?? 0);
+      }
+      console.log("New total amount:", totalAmount);
+      setTotalCartAmount(totalAmount);
+    };
+  
+    useEffect(() => {
+      updateTotalCartAmount();
+    }, [cartItems, catalogData]);
 
   const handleAddToCart = (itemId: string) => {
     const newCartItems = { ...cartItems, [itemId]: (cartItems[itemId] || 0) + 1 };
@@ -41,6 +43,10 @@ export const Cart = () => {
     setCartItems(newCartItems);
     updateTotalCartAmount();
   };
+
+
+  console.log("Cart items:", cartItems);
+  console.log("Total cart amount:", totalCartAmount);
 
   return (
     <div className='cart'>

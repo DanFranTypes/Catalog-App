@@ -1,6 +1,6 @@
 [
     {
-        "Code":  "",
+        "Code":  "5 Second Nail",
         "Description":  "5 Second Nail",
         "OM":  "",
         "Cost":  ""
@@ -24,7 +24,7 @@
         "Cost":  "$4.20 "
     },
     {
-        "Code":  "",
+        "Code":  "A.I.  Ardell",
         "Description":  "A.I.  Ardell",
         "OM":  "",
         "Cost":  ""
@@ -366,7 +366,7 @@
         "Cost":  "$3.60 "
     },
     {
-        "Code":  "",
+        "Code":  "A.I.  Duo/Seche",
         "Description":  "A.I.  Duo/Seche",
         "OM":  "",
         "Cost":  ""
@@ -396,7 +396,7 @@
         "Cost":  "$7.20 "
     },
     {
-        "Code":  "",
+        "Code":  "A.I. Supernail",
         "Description":  "A.I. Supernail",
         "OM":  "",
         "Cost":  ""
@@ -432,7 +432,7 @@
         "Cost":  "$4.20 "
     },
     {
-        "Code":  "",
+        "Code":  "A.I. Clubman",
         "Description":  "A.I. Clubman",
         "OM":  "",
         "Cost":  ""
@@ -594,7 +594,7 @@
         "Cost":  "$6.00 "
     },
     {
-        "Code":  "",
+        "Code":  "Cover Your Gray",
         "Description":  "Cover Your Gray",
         "OM":  "",
         "Cost":  ""
@@ -696,12 +696,6 @@
         "Cost":  "$5.40 "
     },
     {
-        "Code":  "MPC-72",
-        "Description":  "Mens Pocket Combs 72 per display Jar ( Now Lower Price )",
-        "OM":  "72",
-        "Cost":  "$0.50 "
-    },
-    {
         "Code":  "50029",
         "Description":  "Duo Plastic Sharpener with Cover ( 12 per box ) ",
         "OM":  "12",
@@ -714,7 +708,7 @@
         "Cost":  "$2.40"
     },
     {
-        "Code":  "",
+        "Code":  "CM",
         "Description":  "CM Products that can be ordered  Direct via Stellar or Drop Shipped via CM ",
         "OM":  "",
         "Cost":  ""
@@ -793,7 +787,7 @@
     },
     {
         "Code":  "SHE-1405",
-        "Description":  "Ear Buds Philips ( Black \u0026 White )",
+        "Description":  "Ear Buds Philips ( Black White )",
         "OM":  "3",
         "Cost":  "$6.00 "
     },
@@ -1110,12 +1104,6 @@
         "Cost":  "$2.40"
     },
     {
-        "Code":  "SCH-30",
-        "Description":  "Cell Phone Stand and Wallet",
-        "OM":  "24",
-        "Cost":  "$2.40 "
-    },
-    {
         "Code":  "MPC-8",
         "Description":  "Multi Purpose Containers ( 8 x 20 ml )   NEW",
         "OM":  "12",
@@ -1128,7 +1116,7 @@
         "Cost":  "$21.00"
     },
     {
-        "Code":  "",
+        "Code":  "CN-OSD",
         "Description":  "CN-OSD Jar and RFID items",
         "OM":  "",
         "Cost":  ""
@@ -1182,7 +1170,7 @@
         "Cost":  "$6.00 "
     },
     {
-        "Code":  "",
+        "Code":  "CR",
         "Description":  "Crazy Rumours",
         "OM":  "",
         "Cost":  ""
@@ -1272,7 +1260,7 @@
         "Cost":  "$3.90 "
     },
     {
-        "Code":  "",
+        "Code":  "CCB",
         "Description":  "CCB Comb and Brush Displays",
         "OM":  "",
         "Cost":  ""
@@ -1302,7 +1290,7 @@
         "Cost":  "$1.80"
     },
     {
-        "Code":  "",
+        "Code":  "DIANE",
         "Description":  "Diane",
         "OM":  "",
         "Cost":  ""
@@ -1339,19 +1327,19 @@
     },
     {
         "Code":  "D3719",
-        "Description":  "Velcro Self Gripping Rollers Pink 7/8\"  6 Pack  ",
+        "Description":  "Velcro Self Gripping Rollers Pink 7/8  6 Pack  ",
         "OM":  "3",
         "Cost":  "$4.20"
     },
     {
         "Code":  "D3721",
-        "Description":  "Velcro Self Gripping Rollers Red  1 1/4\"  4 Pack  ",
+        "Description":  "Velcro Self Gripping Rollers Red  1 1/4  4 Pack  ",
         "OM":  "3",
         "Cost":  "$4.20"
     },
     {
         "Code":  "D3724",
-        "Description":  "Velcro Self Gripping Rollers Purple 2\"  3 pack    ",
+        "Description":  "Velcro Self Gripping Rollers Purple 2  3 pack    ",
         "OM":  "3",
         "Cost":  "$4.20"
     },
@@ -1368,7 +1356,7 @@
         "Cost":  "$840.00 "
     },
     {
-        "Code":  "Assorted UPC\u0027s",
+        "Code":  "NF",
         "Description":  "Diane Nail Files Open Stock Assorted ( 16 available styles )",
         "OM":  "12",
         "Cost":  "$0.90 "
@@ -1405,7 +1393,7 @@
     },
     {
         "Code":  "D1016",
-        "Description":  "Diane Mirror 2 Sided Handheld ^\" x 11\" ",
+        "Description":  "Diane Mirror 2 Sided Handheld  x 11 ",
         "OM":  "3",
         "Cost":  "$7.20 "
     },
@@ -1434,12 +1422,6 @@
         "Cost":  "$5.40 "
     },
     {
-        "Code":  "D8157",
-        "Description":  "Diane Club / Army Brush Boar Bristle",
-        "OM":  "3",
-        "Cost":  "$5.40 "
-    },
-    {
         "Code":  "D204",
         "Description":  "Diane Straight Edge Razor with 2 blades",
         "OM":  "3",
@@ -1458,7 +1440,7 @@
         "Cost":  "$2.10 "
     },
     {
-        "Code":  "D711",
+        "Code":  "D711 OS",
         "Description":  "Diane Manicure / Nail Brush open stock",
         "OM":  "12",
         "Cost":  "$2.40 "
@@ -1495,7 +1477,7 @@
     },
     {
         "Code":  "DVM002",
-        "Description":  "Lord Blaces ( 50 pack )  10 x 5 pack per box   NEW buy 2 get 1 free",
+        "Description":  "Lord Blades ( 50 pack )  10 x 5 pack per box   NEW buy 2 get 1 free",
         "OM":  "1",
         "Cost":  "$9.00 "
     },
@@ -1537,13 +1519,13 @@
     },
     {
         "Code":  "D6253",
-        "Description":  "Diane Bath Brush Bamboo 17\" with 100% Boar Bristle ",
+        "Description":  "Diane Bath Brush Bamboo 17 with 100% Boar Bristle ",
         "OM":  "3",
         "Cost":  "$5.40 "
     },
     {
         "Code":  "D6258",
-        "Description":  "Diane Mesh Bath Sponge 16\"",
+        "Description":  "Diane Mesh Bath Sponge 16",
         "OM":  "3",
         "Cost":  "$3.60 "
     },
@@ -1573,7 +1555,7 @@
     },
     {
         "Code":  "D8137",
-        "Description":  "Diane Large 2 3/8\" Tint Brush",
+        "Description":  "Diane Large 2 3/8 Tint Brush",
         "OM":  "6",
         "Cost":  "$1.80 "
     },
@@ -1591,13 +1573,13 @@
     },
     {
         "Code":  "D596",
-        "Description":  "Diane Sheers 6\"   ",
+        "Description":  "Diane Sheers 6",
         "OM":  "3",
         "Cost":  "$10.80 "
     },
     {
         "Code":  "D598",
-        "Description":  "Diane Thinning Shears 6\" ",
+        "Description":  "Diane Thinning Shears 6",
         "OM":  "3",
         "Cost":  "$10.80 "
     },
@@ -1609,13 +1591,13 @@
     },
     {
         "Code":  "M623",
-        "Description":  "Diane 7\" Mens Styling Combs Loose in Display Jar  ",
+        "Description":  "Diane 7 Mens Styling Combs Loose in Display Jar  ",
         "OM":  "48",
         "Cost":  "$0.60 "
     },
     {
-        "Code":  "M623",
-        "Description":  "Diane 7\" Mens Styling Combs ( 10 pack ) bag  ",
+        "Code":  "M623 PACK",
+        "Description":  "Diane 7 Mens Styling Combs ( 10 pack ) bag  ",
         "OM":  "3",
         "Cost":  "$6.00 "
     },
@@ -1638,7 +1620,7 @@
         "Cost":  "$4.50 "
     },
     {
-        "Code":  "",
+        "Code":  "DM",
         "Description":  "DM",
         "OM":  "",
         "Cost":  ""
@@ -1740,13 +1722,13 @@
         "Cost":  "$4.80 "
     },
     {
-        "Code":  "",
+        "Code":  "FE",
         "Description":  "Fashion Essentials / Be Confident",
         "OM":  "",
         "Cost":  ""
     },
     {
-        "Code":  "",
+        "Code":  "BC",
         "Description":  "Be Confident New Packaging Bra Accessories",
         "OM":  "",
         "Cost":  ""
@@ -1872,19 +1854,19 @@
         "Cost":  "$3.00 "
     },
     {
-        "Code":  "LC-14200",
+        "Code":  "LC-14200 DEAL1",
         "Description":  "Exfolliating Large  Body Buffer ( Pouff ) 80gm  20% off Deal",
         "OM":  "24",
         "Cost":  "$2.40 "
     },
     {
-        "Code":  "LC-14200",
+        "Code":  "LC-14200 DEAL2",
         "Description":  "Exfolliating Large  Body Buffer ( Pouff ) 80gm   40% Off Deal",
         "OM":  "60",
         "Cost":  "$1.80 "
     },
     {
-        "Code":  "LC-14200",
+        "Code":  "LC-14200 DEAL3",
         "Description":  "Exfolliating Large  Body Buffer ( Pouff ) 80gm  50% Off Deal",
         "OM":  "120",
         "Cost":  "$1.50 "
@@ -1896,19 +1878,19 @@
         "Cost":  "$3.60 "
     },
     {
-        "Code":  "LC-08070",
+        "Code":  "LC-08070 DEAL 1",
         "Description":  "Get Gorgeous Mani Pedi Set   Volume Deal",
         "OM":  "12",
         "Cost":  "$3.00 "
     },
     {
-        "Code":  "LC-08070",
+        "Code":  "LC-08070 DEAL 2",
         "Description":  "Get Gorgeous Mani Pedi Set    Volume Deal",
         "OM":  "24",
         "Cost":  "$2.40 "
     },
     {
-        "Code":  "LC-08070",
+        "Code":  "LC-08070 DEAL 3",
         "Description":  "Get Gorgeous Mani Pedi Set   Volume Deal",
         "OM":  "36",
         "Cost":  "$1.80 "
@@ -1932,19 +1914,19 @@
         "Cost":  "$4.80 "
     },
     {
-        "Code":  "7 71590 01205",
+        "Code":  "7 71590 01205 DEAL",
         "Description":  "Saying Sleep Mask and Ear Plugs     Volume Deal",
         "OM":  "12",
         "Cost":  "$4.00 "
     },
     {
-        "Code":  "7 71590 01205",
+        "Code":  "7 71590 01205 DEAL2",
         "Description":  "Saying Sleep Mask and Ear Plugs     Volume Deal",
         "OM":  "24",
         "Cost":  "$3.60 "
     },
     {
-        "Code":  "7 71590 01205",
+        "Code":  "7 71590 01205 DEAL 3",
         "Description":  "Saying Sleep Mask and Ear Plugs     Volume Deal",
         "OM":  "36",
         "Cost":  "$3.00 "
@@ -1956,7 +1938,7 @@
         "Cost":  "$6.00"
     },
     {
-        "Code":  "US-71000",
+        "Code":  "US-71000 DEAL",
         "Description":  "Urban Spa Shower Mirror  Buy 4 get 2 Free Deal Price",
         "OM":  "6",
         "Cost":  "$4.00"
@@ -1974,7 +1956,7 @@
         "Cost":  "$2.10 "
     },
     {
-        "Code":  "",
+        "Code":  "FLSH",
         "Description":  "Flushie Pre Toilet Sprays ",
         "OM":  "",
         "Cost":  ""
@@ -1986,7 +1968,7 @@
         "Cost":  "$7.80 "
     },
     {
-        "Code":  "",
+        "Code":  "GHA",
         "Description":  "GHA-Lindo",
         "OM":  "",
         "Cost":  ""
@@ -2178,7 +2160,7 @@
         "Cost":  "$1.80"
     },
     {
-        "Code":  "",
+        "Code":  "ISO",
         "Description":  "Isoflex",
         "OM":  "",
         "Cost":  ""
@@ -2196,7 +2178,7 @@
         "Cost":  "$4.80 "
     },
     {
-        "Code":  "",
+        "Code":  "JBG",
         "Description":  "JBG",
         "OM":  "",
         "Cost":  ""
@@ -2262,7 +2244,7 @@
         "Cost":  "$9.00"
     },
     {
-        "Code":  "",
+        "Code":  "Modele",
         "Description":  "Modele",
         "OM":  "",
         "Cost":  ""
@@ -2280,7 +2262,7 @@
         "Cost":  "$8.00"
     },
     {
-        "Code":  "",
+        "Code":  "Misc",
         "Description":  "Miscallaneous Items",
         "OM":  "",
         "Cost":  ""
@@ -2316,7 +2298,7 @@
         "Cost":  "$1.20 "
     },
     {
-        "Code":  "",
+        "Code":  "ONO",
         "Description":  "One N Only Perm Kits ( Available Mid July 2021 )",
         "OM":  "",
         "Cost":  ""
@@ -2382,7 +2364,7 @@
         "Cost":  "$1.20 "
     },
     {
-        "Code":  "",
+        "Code":  "SHRK",
         "Description":  "Sharkeyes Optical",
         "OM":  "",
         "Cost":  ""
@@ -2442,7 +2424,7 @@
         "Cost":  "$6.00 "
     },
     {
-        "Code":  "",
+        "Code":  "QMD",
         "Description":  "QMD Disposables",
         "OM":  "",
         "Cost":  ""
@@ -2526,7 +2508,7 @@
         "Cost":  "$50.00 "
     },
     {
-        "Code":  "",
+        "Code":  "RR",
         "Description":  "Rebels Refinery  NEW",
         "OM":  "",
         "Cost":  ""
@@ -2604,7 +2586,7 @@
         "Cost":  "$3.00"
     },
     {
-        "Code":  "",
+        "Code":  "US",
         "Description":  "Urban Spa",
         "OM":  "",
         "Cost":  ""
@@ -2880,7 +2862,7 @@
         "Cost":  "$1,080.90"
     },
     {
-        "Code":  "",
+        "Code":  "CNAR",
         "Description":  "CONAIR ",
         "OM":  "",
         "Cost":  ""
