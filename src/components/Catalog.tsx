@@ -21,12 +21,11 @@ const Catalog: React.FC = () => {
   }, [setCatalogData]);
 
   const handleAddToCart = (item: any) => {
-    addToCart(item.Code);
-    setCartItems((prevCartItems: { [itemId: string]: number }) => ({
-      ...prevCartItems,
-      [item.Code]: (prevCartItems[item.Code] || 0) + 1
-    }));
+    const updatedCartItems = { ...cartItems };
+    updatedCartItems[item.Code] = (updatedCartItems[item.Code] || 0) + 1;
+    setCartItems(updatedCartItems);
   };
+  
 
   return (
     <div className='catalog'>
