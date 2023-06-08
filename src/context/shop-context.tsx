@@ -1,74 +1,64 @@
-import React, { ReactNode, createContext, useEffect, useState } from "react";
+import React, { ReactNode, createContext, useEffect, useState } from 'react';
 
 type CartItems = { [itemId: string]: number };
 
 export interface ShopContextValue {
-  cartItems: { [itemId: string]: number };
+  cartItems: CartItems;
   addToCart: (itemId: string) => void;
   removeFromCart: (itemId: string) => void;
-  updateCartItemCount: (newAmount: number, itemId: string) => void;
-  getTotalCartAmount: () => number;
+  updateCartItemCount: (itemId: string, newQuantity: number) => void;
   catalogData: any[];
-  setCatalogData: React.Dispatch<React.SetStateAction<any[]>>;
-  setCartItems: React.Dispatch<React.SetStateAction<{ [itemId: string]: number }>>;
+  setCartItems: React.Dispatch<React.SetStateAction<CartItems>>;
 }
 
-export const ShopContext = createContext<ShopContextValue>(
-  {} as ShopContextValue
-);
+export const ShopContext = createContext<ShopContextValue>({} as ShopContextValue);
 
-const getDefaultCart = (): CartItems => {
-  return {};
-};
+const getDefaultCart = (): CartItems => ({});
 
 interface ShopContextProviderProps {
   children: ReactNode;
 }
 
-export const ShopContextProvider = ({
-  children,
-}: ShopContextProviderProps) => {
+export const ShopContextProvider = ({ children }: ShopContextProviderProps) => {
   const [cartItems, setCartItems] = useState<CartItems>(getDefaultCart());
-  const [catalogData, setCatalogData] = useState<any[]>([]); // Add catalogData state
-
-  const getTotalCartAmount = () => {
-    let totalAmount = 0;
-    for (const item in cartItems) {
-      if (cartItems[item] > 0) {
-        const itemInfo = catalogData.find((product) => product.Code === item);
-        totalAmount += cartItems[item] * (itemInfo?.Cost ?? 0);
-      }
-    }
-    return totalAmount;
-  };
+  const [catalogData, setCatalogData] = useState<any[]>([]);
 
   const addToCart = (itemId: string) => {
     setCartItems((prev) => ({ ...prev, [itemId]: (prev[itemId] || 0) + 1 }));
   };
 
   const removeFromCart = (itemId: string) => {
-    setCartItems((prev) => ({
-      ...prev,
-      [itemId]: Math.max((prev[itemId] || 0) - 1, 0),
-    }));
+    setCartItems((prev) => {
+      const updatedCartItems = { ...prev };
+      delete updatedCartItems[itemId]; // Remove the item directly from the cart
+      return updatedCartItems;
+    });
   };
 
-  const updateCartItemCount = (newAmount: number, itemId: string) => {
-    setCartItems((prev) => ({ ...prev, [itemId]: newAmount }));
+  const updateCartItemCount = (itemId: string, newQuantity: number) => {
+    setCartItems((prev) => {
+      const updatedCartItems = { ...prev };
+      if (newQuantity > 0) {
+        updatedCartItems[itemId] = newQuantity;
+      } else {
+        delete updatedCartItems[itemId];
+      }
+      return updatedCartItems;
+    });
   };
+  
 
-  const fetchCatalogData = async () => {
-    try {
-      const response = await fetch('/catalog.json');
-      const data = await response.json();
-      setCatalogData(data);
-    } catch (error) {
-      console.error('Error fetching catalog data:', error);
-    }
-  };
-
-  // Fetch the catalog data when the component mounts
   useEffect(() => {
+    const fetchCatalogData = async () => {
+      try {
+        const response = await fetch('/catalog.json');
+        const data = await response.json();
+        setCatalogData(data);
+      } catch (error) {
+        console.error('Error fetching catalog data:', error);
+      }
+    };
+
     fetchCatalogData();
   }, []);
 
@@ -77,13 +67,9 @@ export const ShopContextProvider = ({
     addToCart,
     removeFromCart,
     updateCartItemCount,
-    getTotalCartAmount,
     catalogData,
-    setCatalogData,
     setCartItems,
   };
 
-  return (
-    <ShopContext.Provider value={contextValue}>{children}</ShopContext.Provider>
-  );
+  return <ShopContext.Provider value={contextValue}>{children}</ShopContext.Provider>;
 };
